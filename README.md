@@ -64,3 +64,9 @@ Statik dosyalar `dist/` dizinidir. Herhangi bir statik barındırma sistemiyle s
 ## Üçüncü taraf verisi
 
 Kaynak, sürüm ve lisans notları için [THIRD_PARTY.md](THIRD_PARTY.md), [ZEMBEREK-LICENSE.txt](ZEMBEREK-LICENSE.txt) ve [APACHE-2.0.txt](APACHE-2.0.txt).
+
+## Android APK
+
+Çevrimdışı Android uygulaması `android/` dizinindedir. Android 8.0 ve üzeri, güncel Android System WebView ile çalışır. Oyun ve sözlük APK içine gömülüdür; hesap açma veya internet bağlantısı gerekmez. Kurulum paketi sürümü **1.1.0**, paket kimliği `com.gokhanagingil.kek`. Tarayıcı ve uygulama kayıtları ayrı tutulur.
+
+[Android derleme ve kullanım notları](android/README.md) · [APK doğrulama kaydı](docs/android-release-1.1.0.json). Yayın APK’sı özel anahtarla imzalanmıştır; imza anahtarı kaynak depoda bulunmaz.

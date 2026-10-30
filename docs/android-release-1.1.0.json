@@ -1,0 +1,24 @@
+{
+  "file": "KEK-1.1.0.apk",
+  "bytes": 1769418,
+  "sha256": "eeaeaed7a875fffe5613125dfc79540cbb7c392771ea3e93f049fd16ddfd661c",
+  "package": "com.gokhanagingil.kek",
+  "versionName": "1.1.0",
+  "versionCode": 11001,
+  "minSdk": 26,
+  "targetSdk": 36,
+  "wordCount": 7564,
+  "sourceCommit": "5e3f8e7e12a8b9cd86e39051ed1f96bb9d9c9d6b",
+  "allWebAssetsMatch": true,
+  "nativeLibraries": false,
+  "signatureSchemes": [
+    "v2",
+    "v3"
+  ],
+  "certificateSha256": "7f880db787ba77b4a7d8c1fd6fb8c1435b1b4d9ab87bfe6afe59646eef700db5",
+  "debuggable": false,
+  "unitTestsPassed": 21,
+  "androidIntegrationTestsPassed": 4,
+  "androidTestDevice": "API 35 Android 15 emulator (Pixel 2 profile)",
+  "physicalPhoneTested": false
+}
