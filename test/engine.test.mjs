@@ -15,6 +15,27 @@ test('inflections, names, abbreviations and unlisted imperatives are not generat
 test('independent noun meanings and lexicalized derived words survive',()=>{
   for(const w of ['ÇEK','DOLMA','GELİR','GİDER','YAZAR','YEMEK','İLMEK','IRMAK','KAPI','YAZI','BİLGİ','ÇİĞ','GÜL'])assert.equal(dictionary.has(w),true,w);
 });
+test('missing everyday headwords and the AHMAK suffix-filter regression are accepted',()=>{
+  for(const w of ['AHMAK','KAZMA','ARAMA','EŞSİZ','İŞSİZ','SÜTÇÜ','YAĞIŞ','CAMCI','CÜPPE','ÇITIR','GÜLÜŞ','GEÇİŞ','AKIŞ','ÖĞE','JİP','BAYT','BLOG','NEMLİ','YAŞLI','GURME','REFLÜ','VEGAN','YÜZME'])assert.equal(dictionary.has(w),true,w);
+  for(const [from,to] of [['EKSİZ','EŞSİZ'],['KAZMA','YAZMA'],['GÜMÜŞ','GÜLÜŞ'],['AKIŞ','ATIŞ'],['YAĞIŞ','BAĞIŞ']]){
+    assert.equal(dictionary.has(from),true,from);assert.equal(validate(from,to).ok,true,`${from} -> ${to}`);
+  }
+});
+test('listed infinitives are accepted without admitting conjugated or possessive forms',()=>{
+  for(const w of ['AÇMAK','ALMAK','ANMAK','DEMEK','ETMEK','İÇMEK','İNMEK','OLMAK','ÖLMEK','ÖVMEK','ÜZMEK'])assert.equal(dictionary.has(w),true,w);
+  for(const w of ['EVE','EVİ','EVDE','EVDEN','EVİN','EVLER','KEKİ','ÇAYI','KEDİM','ADIMI','AĞACI','GÖZÜ','GELDİ','BAKTI','YAPTI','OKUDU','BİZİ','SİZE','GEL','GİT'])assert.equal(dictionary.has(w),false,w);
+  assert.equal(validate('EĞMEK','EZMEK').ok,true);
+});
+test('new headwords extend a real chain and still cannot be repeated',()=>{
+  const g=createGame({length:5,start:'YAZMA',now:0});
+  for(const w of ['KAZMA','KAYMA','KALMA','DALMA','DALGA'])assert.equal(submit(g,w,1).ok,true,w);
+  assert.equal(g.moves,5);assert.equal(submit(g,'DALMA',2).code,'repeat');
+});
+test('additive dictionary update replays previous-version saves without trusting their scores',()=>{
+  const old=pack(createGame({start:'KEK',now:0}));old.version='2026-10-30.1';old.history.push({word:'ÇEK',player:null},{word:'ÇOK',player:null});old.moves=999;
+  const restored=restore(old);assert.ok(restored);assert.equal(restored.current,'ÇOK');assert.equal(restored.moves,2);assert.equal(restored.version,'2026-10-30.2');
+  assert.equal(restore({...old,history:[...old.history,{word:'EVİ'}]}),null);
+});
 test('the full 19-move example is legal, including repeat letter-position changes',()=>{
   const g=createGame({start:'KEK',now:0});const words='ÇEK ÇOK ŞOK TOK TOP TİP DİP DİL DAL BAL BOL YOL KOL KÜL GÜL GÖL GOL SOL SAL'.split(' ');
   for(const w of words)assert.equal(submit(g,w,1).ok,true,w);assert.equal(g.moves,19);assert.equal(g.used.size,20);

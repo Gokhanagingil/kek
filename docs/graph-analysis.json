@@ -1,17 +1,17 @@
 {
   "generated": "2026-10-30",
-  "dictionary": 7281,
+  "dictionary": 7564,
   "warning": "Simulated move counts, not human usability results, difficulty guarantees or maximum possible chain lengths.",
   "results": [
     {
       "length": 3,
-      "words": 734,
+      "words": 739,
       "openings": 18,
       "simulations": 100,
       "policy": "Uniform random among preferred common-word neighbors, otherwise all legal neighbors",
-      "minimum": 69,
-      "median": 274.5,
-      "maximum": 427,
+      "minimum": 61,
+      "median": 291.5,
+      "maximum": 480,
       "example": [
         "KEK",
         "KEL",
@@ -30,13 +30,13 @@
     },
     {
       "length": 4,
-      "words": 1891,
+      "words": 1942,
       "openings": 20,
       "simulations": 100,
       "policy": "Uniform random among preferred common-word neighbors, otherwise all legal neighbors",
-      "minimum": 2,
-      "median": 49.5,
-      "maximum": 203,
+      "minimum": 5,
+      "median": 52,
+      "maximum": 196,
       "example": [
         "KALE",
         "KARE",
@@ -55,13 +55,13 @@
     },
     {
       "length": 5,
-      "words": 4656,
+      "words": 4883,
       "openings": 20,
       "simulations": 100,
       "policy": "Uniform random among preferred common-word neighbors, otherwise all legal neighbors",
-      "minimum": 3,
-      "median": 28,
-      "maximum": 107,
+      "minimum": 2,
+      "median": 31,
+      "maximum": 169,
       "example": [
         "KABAK",
         "KAZAK",

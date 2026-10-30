@@ -214,3 +214,10 @@ limitations under the License.
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+
+
+KEK v1.1 dictionary modifications:
+Selected headwords from Zemberek master-dictionary.dict and non-tdk.dict.
+Filtered and normalized; listed infinitives retained; no inflections generated.
+Additional KEK editorial headwords have original review notes.
+Source and change history: https://github.com/Gokhanagingil/kek

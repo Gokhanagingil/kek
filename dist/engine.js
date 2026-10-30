@@ -1,4 +1,4 @@
-import { WORDS, COMMON, DICTIONARY_VERSION } from './lexicon.js';
+import { WORDS, COMMON, DICTIONARY_VERSION, COMPATIBLE_DICTIONARY_VERSIONS } from './lexicon.js?v=2026-10-30.2';
 export { DICTIONARY_VERSION };
 export const normalize = s => String(s).normalize('NFC').trim().toLocaleUpperCase('tr-TR').replaceAll('Â','A').replaceAll('Î','İ').replaceAll('Û','U');
 export const dictionary = new Set(WORDS);
@@ -102,7 +102,7 @@ export function hint(game,now=Date.now()) {
 export function pack(game){return {...game,used:[...game.used]};}
 export function restore(raw) {
   try{
-    if(raw.version!==DICTIONARY_VERSION||raw.mode!=='calm'||!['playing','paused'].includes(raw.status)||!Array.isArray(raw.history)||!raw.history.length)return null;
+    if(!COMPATIBLE_DICTIONARY_VERSIONS.includes(raw.version)||raw.mode!=='calm'||!['playing','paused'].includes(raw.status)||!Array.isArray(raw.history)||!raw.history.length)return null;
     const game=createGame({mode:'calm',length:raw.length,start:raw.history[0].word,now:raw.startedAt});
     for(const entry of raw.history.slice(1))if(!submit(game,entry.word,raw.startedAt).ok)return null;
     if(game.status==='ended')return null;

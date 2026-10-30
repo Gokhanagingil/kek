@@ -16,14 +16,18 @@ Yayın, Site sahibinin ChatGPT hesabına özeldir. İnternetten arkadaş daveti 
 
 3, 4 ve 5 harf desteklenir. Başlangıçlar, yaygın kelimeler üzerinden en az 12 hamle (3–4 harf) veya 8 hamle (5 harf) içeren bir yol bulunarak seçilir. Bu, oyuncunun her seçiminin aynı uzunluğu sağlayacağını garanti etmez. İlk başlangıçta tek hamlelik çıkmazlara açılan kelimeler seçilmez.
 
+## Sözlük güncellemesi · v1.1
+
+7.564 kelime: önceki sürüme 283 yeni madde eklendi. `KAZMA`, `ARAMA`, `EŞSİZ`, `İŞSİZ`, `SÜTÇÜ`, `YAĞIŞ`, `CÜPPE`, `GURME`, `BLOG`, `ÖĞE` gibi eksikler tamamlandı. `AHMAK` sözcüğünü yanlış eleyen sonek filtresi düzeltildi. Önceki süresiz oyun kayıtları hamleleri yeniden doğrulanarak devam eder. [Kelime politikası ve inceleme notları](docs/dictionary-policy.md), [tam değişiklik listesi](docs/dictionary-update.json).
+
 ## Kelime politikası
 
 - Kesin bir oyun sözlüğüne eşitlik kontrolü yapılır; üretken ekleme/morfolojik türetme uygulanmaz.
-- `EVE`, `EVİ`, `EVDE`, `EVDEN`, `EVİN`, `EVLER` gibi çekimler kabul edilmez. `GEL`, `GİT` gibi yalın emir biçimleri sözlüğe otomatik eklenmez.
+- `EVE`, `EVİ`, `EVDE`, `EVDEN`, `EVİN`, `EVLER` gibi çekimler kabul edilmez. `GEL`, `GİT` gibi yalın emir biçimleri sözlüğe otomatik eklenmez. Kaynakta madde başı bulunan `ALMAK`, `AÇMAK`, `İÇMEK` gibi mastarlar geçerlidir.
 - `DOLMA`, `GELİR`, `GİDER`, `YAZAR`, `YEMEK`, `KAPI`, `YAZI` gibi bağımsız isim anlamı olan maddeler kabul edilir. Yapım ekiyle oluşmuş bağımsız kelime ile çekimli biçim aynı şey değildir.
 - Özel isim ve kısaltma sözlükleri içeri alınmaz. `DENİZ` gibi aynı zamanda cins isim olan kelimeler isim anlamıyla geçer.
 - Türkçe yerel büyük harf dönüşümü kullanılır: `i → İ`, `ı → I`. `O/Ö`, `U/Ü`, `I/İ` farklı harflerdir. Düzeltme işareti sadeleştirilir: `â → A`, `î → İ`, `û → U`.
-- Veri, Zemberek'in Apache 2.0 lisanslı ana sözlüğünden filtrelenmiştir. Tüm Türkçeyi kapsamaz; her maddenin dilbilimci tarafından tek tek denetlendiği iddia edilmez. Sözlük düzeltmeleri `scripts/build-dictionary.mjs` üzerinden sürümlenir. Başlangıç/ipuçlarında daha tanıdık kelimeler önceliklidir.
+- Veri, Zemberek'in Apache 2.0 lisanslı ana sözlüğünden, ek sözlüğünden seçilen maddelerden ve KEK için hazırlanan ek kelime seçkisinden derlenir. Tüm Türkçeyi kapsamaz; her maddenin dilbilimci tarafından tek tek denetlendiği iddia edilmez. Kaynaklar ve ek seçki `scripts/build-dictionary.mjs` ile tekrarlanabilir biçimde derlenir; düzeltmeler sözlük sürümüyle kaydedilir. Başlangıç/ipuçlarında daha tanıdık kelimeler önceliklidir.
 - İpucu kullanılan oyunlar ayrı rekor kategorisinde saklanır. Online liderlik tablosu veya hileye dayanıklı sunucu doğrulaması yoktur.
 
 ## Çalıştır
@@ -51,7 +55,7 @@ Kayıtlar `localStorage` içinde bu cihaz/tarayıcıya özeldir. Tarayıcı veri
 - `dist/app.js`: ekranlar, klavye, ses, diyaloglar, rekorlar ve oturum kaydı.
 - `dist/lexicon.js`: tekrarlanabilir derleme çıktısı.
 - `scripts/`: lisanslı kaynak kesiti, başlangıç/ipuçları kelime seçkileri, derleme ve oyun analizi.
-- `test/engine.test.mjs`: 17 test; bunların içinde 120 simüle oyunun kuralları da kontrol edilir.
+- `test/engine.test.mjs`: 21 test; bunların içinde 120 simüle oyunun kuralları da kontrol edilir.
 - `docs/graph-analysis.json`: ayrıca 300 deterministik otomatik oyun denemesi. İnsan kullanıcı testi değildir; hamle sayıları teorik en uzun yol veya garanti değildir.
 - `docs/QA.md`: tarayıcıda doğrulanan akışlar ve bilinen sınırlar.
 
