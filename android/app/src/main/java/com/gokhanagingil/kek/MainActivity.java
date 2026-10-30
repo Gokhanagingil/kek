@@ -1,7 +1,6 @@
 package com.gokhanagingil.kek;
 
 import android.annotation.SuppressLint;
-import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.ClipData;
 import android.content.ClipboardManager;
@@ -12,13 +11,15 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowInsets;
+import android.view.WindowInsetsController;
 import android.webkit.WebResourceRequest;
 import android.webkit.WebResourceResponse;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.FrameLayout;
-import android.window.OnBackInvokedDispatcher;
+import androidx.activity.ComponentActivity;
+import androidx.activity.OnBackPressedCallback;
 
 import androidx.webkit.WebViewAssetLoader;
 import androidx.webkit.WebViewCompat;
@@ -28,7 +29,7 @@ import java.nio.charset.StandardCharsets;
 import java.util.Collections;
 
 /** A local HTTPS origin for bundled files, with no server or network permission. */
-public final class MainActivity extends Activity {
+public final class MainActivity extends ComponentActivity {
     static final String ORIGIN = "https://appassets.androidplatform.net";
     static final String HOME = ORIGIN + "/assets/www/index.html";
     private WebView webView;
@@ -45,7 +46,11 @@ public final class MainActivity extends Activity {
         root.addView(webView, new FrameLayout.LayoutParams(-1, -1));
         setContentView(root);
 
-        if (Build.VERSION.SDK_INT >= 30) getWindow().setDecorFitsSystemWindows(false);
+        if (Build.VERSION.SDK_INT >= 30) {
+            getWindow().setDecorFitsSystemWindows(false);
+            int lightBars=WindowInsetsController.APPEARANCE_LIGHT_STATUS_BARS | WindowInsetsController.APPEARANCE_LIGHT_NAVIGATION_BARS;
+            getWindow().getInsetsController().setSystemBarsAppearance(lightBars,lightBars);
+        }
         else getWindow().getDecorView().setSystemUiVisibility(View.SYSTEM_UI_FLAG_LAYOUT_STABLE
             | View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN | View.SYSTEM_UI_FLAG_LAYOUT_HIDE_NAVIGATION
             | View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR | View.SYSTEM_UI_FLAG_LIGHT_NAVIGATION_BAR);
@@ -101,13 +106,11 @@ public final class MainActivity extends Activity {
                     reply.postMessage("copied");
                 });
         }
-        if (Build.VERSION.SDK_INT >= 33) {
-            getOnBackInvokedDispatcher().registerOnBackInvokedCallback(OnBackInvokedDispatcher.PRIORITY_DEFAULT, this::handleBack);
-        }
+        getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
+            @Override public void handleOnBackPressed() { handleBack(); }
+        });
         webView.loadUrl(HOME);
     }
-
-    @Override public void onBackPressed() { handleBack(); }
 
     private void handleBack() {
         webView.evaluateJavascript("(() => { const modal=document.querySelector('dialog[open]');"

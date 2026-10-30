@@ -80,9 +80,9 @@ public final class OfflineGameTest {
         await("!!document.querySelector('[data-action=continue]')");
         click("[data-action=continue]");
         await("document.querySelector('#current-label').textContent.startsWith('ÇEK')");
-        scenario.onActivity(MainActivity::onBackPressed);
+        scenario.onActivity(activity -> activity.getOnBackPressedDispatcher().onBackPressed());
         await("document.querySelector('dialog').open && !!document.querySelector('[data-action=exit-confirm]')");
-        scenario.onActivity(MainActivity::onBackPressed);
+        scenario.onActivity(activity -> activity.getOnBackPressedDispatcher().onBackPressed());
         await("!document.querySelector('dialog').open");
         assertEquals("\"1\"",js("document.querySelector('#move-count').textContent"));
     }
