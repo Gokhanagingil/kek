@@ -1,0 +1,78 @@
+{
+  "generated": "2026-10-30",
+  "dictionary": 7281,
+  "warning": "Simulated move counts, not human usability results, difficulty guarantees or maximum possible chain lengths.",
+  "results": [
+    {
+      "length": 3,
+      "words": 734,
+      "openings": 18,
+      "simulations": 100,
+      "policy": "Uniform random among preferred common-word neighbors, otherwise all legal neighbors",
+      "minimum": 69,
+      "median": 274.5,
+      "maximum": 427,
+      "example": [
+        "KEK",
+        "KEL",
+        "KOL",
+        "KOR",
+        "KAR",
+        "KAT",
+        "KAZ",
+        "SAZ",
+        "SAL",
+        "SAN",
+        "TAN",
+        "YAN",
+        "YAL"
+      ]
+    },
+    {
+      "length": 4,
+      "words": 1891,
+      "openings": 20,
+      "simulations": 100,
+      "policy": "Uniform random among preferred common-word neighbors, otherwise all legal neighbors",
+      "minimum": 2,
+      "median": 49.5,
+      "maximum": 203,
+      "example": [
+        "KALE",
+        "KARE",
+        "KARA",
+        "SARA",
+        "PARA",
+        "BARA",
+        "DARA",
+        "YARA",
+        "YARI",
+        "KARI",
+        "SARI",
+        "BARI",
+        "DARI"
+      ]
+    },
+    {
+      "length": 5,
+      "words": 4656,
+      "openings": 20,
+      "simulations": 100,
+      "policy": "Uniform random among preferred common-word neighbors, otherwise all legal neighbors",
+      "minimum": 3,
+      "median": 28,
+      "maximum": 107,
+      "example": [
+        "KABAK",
+        "KAZAK",
+        "KAPAK",
+        "KAVAK",
+        "KAYAK",
+        "KAYIK",
+        "KAYIN",
+        "YAYIN",
+        "YARIN"
+      ]
+    }
+  ]
+}

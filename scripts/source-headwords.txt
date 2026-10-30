@@ -1,0 +1,8627 @@
+aba
+aba [P:Adj]
+abadî
+abanî
+abaşo
+abaşo [P:Adj]
+abat [P:Adj; A:NoVoicing]
+abd
+abdal
+abe [P:Interj]
+abece
+abes [P:Adj]
+abes [P:Adv]
+abi
+abide [P:Adj]
+abis
+abiye
+abla
+ablak [P:Adj; A:NoVoicing]
+abli
+abo [P:Interj]
+abone
+abone [P:Adj]
+abosa [P:Interj]
+abra
+abraş
+abraş [P:Adj]
+abu [P:Interj]
+abuk [P:Adj]
+abuk [P:Dup;A:NoVoicing, NoSuffix]
+abuli
+abur [P:Dup]
+abus [P:Adj]
+acaba
+acaba [P:Adv]
+acar [P:Adj]
+acele
+acele [P:Adj]
+acele [P:Adv]
+acem
+acemi
+acemi [P:Adj]
+acep [P:Adv]
+aceze
+acı
+acı [P:Adj]
+acibe
+acil [P:Adj]
+aciz [A:LastVowelDrop]
+âciz [P:Adj]
+âciz [P:Adv]
+acube
+acul [P:Adj]
+acun
+acur
+acuze
+acyo
+açar
+açgöz [P:Adj]
+açı
+açık
+açık [P:Adj]
+açık [P:Adv]
+açım
+açıt [A:NoVoicing]
+açkı
+açma
+açmak
+açmaz
+ada
+adak
+adale
+adalî
+adam
+adamı
+adap
+adaş
+aday
+adedî [P:Adv]
+adem
+âdem
+adese
+adet
+âdet [A:NoVoicing]
+âdeta [P:Adv]
+adıl
+adım
+adına [P:Adv]
+adi [P:Adj]
+adil [P:Adj]
+adli [P:Adj]
+adres
+afak [A:NoVoicing]
+afaki [P:Adj]
+afal [P:Adj]
+afal [P:Dup]
+afat [A:NoVoicing]
+afazi
+afet [A:NoVoicing]
+afet [P:Adj; A:NoVoicing]
+afi
+afif [P:Adj]
+afife [P:Adj]
+afis
+afiş
+afişe [P:Adj]
+afoni
+afra
+afsun
+afşar
+aft
+aftos
+afur
+afyon
+agâh [P:Adj]
+agami
+agel
+agora
+agraf
+agu
+aguş
+ağa
+ağa [P:Adj]
+ağaç
+ağaç [P:Adj]
+ağda
+ağı
+ağıl
+ağım
+ağır
+ağır [P:Adj]
+ağır [P:Adv]
+ağıt
+ağız [A:LastVowelDrop]
+ağız [Index:1]
+ağlak [P:Adj]
+ağmak
+ağnam
+ağraz
+ağrı
+ağyar
+aha [P:Det]
+ahali
+ahar
+ahbap
+ahcar
+ahçı
+ahdî [P:Adj]
+ahenk
+ahfat
+ahır
+ahi
+ahi [P:Adj]
+ahir [P:Adj]
+ahit [A:Voicing, LastVowelDrop]
+ahiz [A:LastVowelDrop]
+ahize
+ahkâm
+ahlaf
+ahlak [A:NoVoicing]
+ahlat [A:NoVoicing, ImplicitPlural]
+ahmak [P:Adj]
+ahraz [P:Adj]
+ahşa
+ahşap
+ahşap [P:Adj]
+ahu
+ahu [P:Adj]
+ahval [A:InverseHarmony]
+aidat [A:NoVoicing]
+aile
+ait [P:Postp,PCDat; A:NoVoicing]
+ajan
+ajans
+ajite [P:Adj]
+ajur
+aka
+akabe
+akaç
+akait
+akaju
+akaju [P:Adj]
+akak
+akala
+akar
+akbaş
+akça
+akçe
+akçıl [P:Adj]
+akdut [A:NoVoicing]
+akemi
+akı
+akıl [A:LastVowelDrop]
+akım
+akın
+akide
+akik
+akil [P:Adj]
+akim [P:Adj]
+akis [A:LastVowelDrop]
+akit [A:LastVowelDrop]
+âkit [P:Adj]
+akkor [P:Adj]
+akkuş
+aklan
+aklen [P:Adv]
+aklî [P:Adj]
+akmak
+akman [P:Adj]
+akne
+akont [A:NoVoicing]
+akor
+akort
+akpas
+akran
+akrep
+aks
+aksak
+aksak [P:Adj]
+aksam
+aksan
+akse
+aksi [P:Adj]
+akson
+aksu
+akşam [P:Noun, Time]
+akşın [P:Adj]
+aktar
+aktif
+aktif [P:Adj]
+aktör
+akur [P:Adj]
+akut [P:Adj ; A:NoVoicing]
+akü
+akva
+akvam
+ala
+ala [P:Adj]
+âlâ [P:Adj]
+alaca
+alaca [P:Adj]
+alaka
+alan
+alarm
+alay
+alaz
+alaza
+albay
+albüm
+alçak [P:Adj]
+alçı
+alçı [P:Adj]
+alem
+âlem
+âlem [P:Pron]
+alenî [P:Adj]
+alet [A:NoVoicing]
+alev
+aleyh
+alfa
+alg [A:InverseHarmony]
+algı
+algın [P:Adj]
+alıcı [P:Adj]
+alıç
+alık [P:Adj]
+alım
+alın [A:LastVowelDrop]
+alış
+ali [P:Adj]
+alil [P:Adj]
+alim [P:Adj]
+âlim [P:Adj]
+alize
+alkan
+alkım
+alkış
+alkil
+alkol [A:InverseHarmony]
+allak [P:Dup]
+allem
+allık
+almaç
+almak [A:Aorist_I]
+almaş
+alnaç
+alo [P:Interj]
+alp [P:Adj]
+alt
+alt [P:Adj]
+altes
+altık
+altın
+altın [P:Adj]
+altız [P:Adj]
+alto
+alyan
+alyon [P:Adj]
+âmâ [P:Adj]
+ama [P:Conj]
+amaç
+amade [P:Adj]
+amal [A:InverseHarmony]
+aman [P:Interj]
+ambar
+amber
+amca
+amel
+amele
+amelî [P:Adj]
+amfi
+amfor
+amigo
+amil
+amin
+âmin [P:Interj]
+amip
+amir
+amir [P:Adj]
+amit
+amma [P:Conj]
+amme
+amor
+amorf [P:Adj]
+amper
+ampir
+ampul [A:InverseHarmony]
+amudi [P:Adj]
+amut
+ana
+ana [P:Adj]
+anaç
+anaç [P:Adj]
+anal [P:Adj]
+anal [P:Adv]
+anane
+anca [P:Adv]
+ancak [P:Adv]
+ancak [P:Conj]
+andaç
+andıç
+andık
+andız
+anele
+anemi
+angıç
+angın [P:Adj]
+angut [P:Adj]
+anha [P:Dup]
+anı
+anık
+anık [P:Adj]
+anıt [A:NoVoicing]
+anız
+ani [P:Adj]
+ani [P:Adv]
+anîde
+anif [P:Adj]
+anif [P:Adv]
+anime
+anjin
+anket [A:NoVoicing]
+anlak
+anlam
+anlık
+anlık [P:Adj]
+anma
+anmak
+anne
+anons
+anot
+ant [A:Voicing]
+anten
+antet [A:NoVoicing]
+antik [P:Adj]
+antre
+anut [P:Adj]
+anüri
+anüs
+anyon
+aort [A:NoVoicing]
+apacı [P:Adj]
+apak [P:Adj]
+apaş
+apaz
+apaz [P:Adj]
+apel
+apış
+apiko
+apiko [P:Adj]
+aplik
+aport [P:Interj]
+apoşi
+apotr
+apre
+april
+apse
+apsis
+aptal [P:Adj]
+apul [P:Dup]
+ara
+ara [P:Adj]
+araba
+aracı [P:Adj]
+araç
+araf
+arak [A:NoVoicing]
+araka
+arap [P:Adj]
+araz
+âraz
+arazi
+arda
+ardak
+ardıç
+ardıl
+arefe
+arena
+argaç
+argın [P:Adj]
+argıt
+argo
+argon
+arı
+arı [P:Adj]
+arık
+arık [P:Adj]
+arış
+arız [P:Adj]
+arıza
+arızi [P:Adj]
+ari [P:Adj]
+arif [P:Adj]
+arife
+ariya
+ariza
+ark
+arka
+arka [P:Adj]
+arkaç
+arkıt [A:NoVoicing]
+arkoz
+arma
+armut
+armut [P:Adj]
+armuz
+aroma
+arp
+arpa
+arpej
+arsa
+arsız [P:Adj]
+arş
+arş [P:Interj]
+arşe
+arşın
+arşiv
+art [A:Voicing]
+art [P:Adj; A:Voicing]
+artçı
+artçı [P:Adj]
+arter
+artı
+artı [P:Adj]
+artık
+artık [P:Adj]
+artık [P:Adv]
+artım
+artın
+aruz
+arya
+arz
+arzu
+asa
+asabi [P:Adj]
+asal [P:Adj]
+asap
+asar
+ases
+ashap
+ası
+asık [P:Adj]
+asıl [P:Adj]
+asım
+asır [A:LastVowelDrop]
+asi [P:Adj]
+aside
+asil [P:Adj]
+asist [A:NoVoicing]
+asit
+ask
+asker
+asker [P:Adj]
+askı
+asla [P:Adv]
+aslan
+aslen [P:Adv]
+aslî [P:Adj]
+asma
+asma [P:Adj]
+asmak
+aspur
+asri [P:Adj]
+ast
+astar
+astat [A:NoVoicing]
+astım
+astik
+asude [P:Adj]
+asyön
+aşağı [A:ImplicitDative]
+aşağı [P:Adj]
+aşağı [P:Adv]
+aşağı [P:Postp,PCAbl]
+aşama
+aşar
+aşarî
+aşçı
+aşevi [A:CompoundP3sg; Roots:aş-ev]
+aşı
+aşı [P:Adj]
+âşık
+âşık [A:NoVoicing; Index:1]
+aşık [A:NoVoicing]
+aşım
+aşır [A:LastVowelDrop]
+aşırı [P:Adj]
+aşırı [P:Adv]
+aşıt
+aşina [P:Adj]
+aşir
+aşk
+aşkın [P:Adj]
+aşkın [P:Postp,PCAcc]
+aşmak
+aşoz
+aşure
+ata
+atak
+atak [P:Adj]
+atari
+ataş
+ataşe
+ate [P:Adj]
+ateh
+ateş
+atfen [P:Postp,PCDat]
+atıf [A:LastVowelDrop]
+atık
+atık [P:Adj]
+atıl [P:Adj]
+atım
+ati
+atik [P:Adj]
+atkı
+atlas
+atlet [A:NoVoicing]
+atmak
+atmık
+atol [A:InverseHarmony]
+atom
+attar
+aut [A:NoVoicing]
+aval [A:InverseHarmony]
+aval [P:Adj]
+avam
+avane
+avans
+avara
+avara [P:Interj]
+avare [P:Adj]
+avaz
+avcı
+avcı [P:Adj]
+avdet [A:NoVoicing]
+avgın
+avize
+avlak
+avlu
+avrat
+avret [A:NoVoicing]
+avro
+avşar
+avuç [A:LastVowelDrop]
+avunç
+avurt
+aya
+ayak
+ayal [A:InverseHarmony]
+ayan [P:Adj]
+âyan [P:Adj]
+ayar
+ayaz
+ayça
+aydın [P:Adj]
+ayet [A:NoVoicing]
+ayevi
+aygır
+aygıt [A:NoVoicing]
+ayı
+ayık [P:Adj]
+ayık [P:Adv]
+ayın
+ayıp [P:Adj]
+ayıt [A:NoVoicing]
+ayin
+ayla
+aylak [P:Adj]
+aylık
+aylık [P:Adj]
+aylık [P:Adv]
+aymak
+aymaz [P:Adj]
+ayn
+ayna
+ayna [P:Adj]
+aynaz
+aynen [P:Adv]
+aynı [P:Adj]
+ayni [P:Adj]
+ayol [P:Interj]
+ayraç
+ayran
+ayrı [P:Adj]
+ayrı [P:Adv]
+ayrıç
+ayrık
+ayrık [P:Adj]
+ayrım
+ayrıt [A:NoVoicing]
+aysar [P:Adj]
+ayva
+ayvan
+ayvaz
+ayyar [P:Adj]
+ayyaş [P:Adj]
+ayyuk [A:NoVoicing]
+aza
+azade [P:Adj]
+azade [P:Adv]
+azami [P:Adj]
+azap
+azar
+azar [P:Dup]
+azat
+azat [P:Adj]
+azel
+azgın [P:Adj]
+azı
+azık
+azil [A:LastVowelDrop]
+azim [A:LastVowelDrop]
+azit
+aziz
+aziz [P:Adj]
+azize
+azmak
+azman [P:Adj]
+aznif
+azoik
+azoik [P:Adj]
+azol
+azot [A:NoVoicing]
+azvay
+baba
+baba [P:Adj]
+babaç
+baca
+bacak
+bacı
+baç
+bad
+badal
+badas
+badat [A:NoVoicing]
+bade
+badem
+badıç
+badi
+badik [P:Adj]
+badya
+bagaj
+baget [A:NoVoicing]
+bağ
+bağa
+bağa [P:Adj]
+bağan
+bağı
+bağıl
+bağıl [P:Adj]
+bağım
+bağın
+bağır [A:LastVowelDrop]
+bağış
+bağıt [A:NoVoicing]
+baha
+bahar [P:Adv, Time]
+bahar [P:Noun, Time]
+bahçe
+bahir [A:LastVowelDrop]
+bahis [A:LastVowelDrop]
+bahri
+bahri [P:Adj]
+baht
+bakaç
+bakam
+bakan
+bakı
+bakım
+bakır
+bakır [P:Adj]
+bakış
+baki [P:Adj]
+bakir [P:Adj]
+bakla
+bal
+bala
+balak
+balar
+balat
+baldo
+bale
+balet [A:NoVoicing]
+balık
+baliğ [P:Adj]
+balkı
+balkı [P:Adj]
+balo
+balon
+baloz
+balta
+balya
+bam [P:Dup]
+bambu
+bambu [P:Adj]
+bamya
+ban
+banak
+banal [P:Adj; A:InverseHarmony]
+banço
+bando
+bani [P:Adj]
+banjo
+bank [A:NoVoicing]
+banka
+banko
+banko [P:Adv]
+banko [P:Interj]
+bant [A:Voicing]
+banyo
+bap [A:Voicing]
+bar
+bara
+baraj
+barak
+baran
+barba
+barça
+barda
+bardo
+barem
+baret [A:NoVoicing]
+barı
+barış
+bari [P:Adv]
+bari [P:Interj]
+barit
+bariz [P:Adj]
+bark
+barka
+baro
+barok [A:NoVoicing]
+baron
+barut [A:NoVoicing]
+bas
+basak
+basar
+basen
+bası
+basık [P:Adj]
+basım
+basın
+basil
+basit [A:NoVoicing]
+basit [P:Adj; A:NoVoicing]
+baskı
+basma
+basma [P:Adj]
+basso
+bastı
+basur
+basya
+baş
+başak
+başat [P:Adj ; A:NoVoicing]
+başka [P:Adj]
+başka [P:Postp,PCAbl]
+başlı [P:Adj]
+başta [P:Adv]
+bat
+batak
+batak [P:Adj]
+batar
+batı [P:Adj]
+batık
+batık [P:Adj]
+batıl [P:Adj]
+batın [A:LastVowelDrop]
+bâtın [P:Adj]
+bati [P:Adj]
+batik
+batik [P:Adj]
+batkı
+baton
+batur
+bav
+bavul
+bay
+bay [P:Adj]
+bayan
+bayat [A:NoVoicing]
+bayat [P:Adj]
+bayır
+bayi
+bayrı [P:Adj]
+baz
+baz [P:Adj]
+baza
+bazal [P:Adj]
+bazen [P:Adv]
+bazı [P:Adj]
+bazı [P:Det]
+bazı [P:Pron,Quant]
+bazik [P:Adj]
+bazit [A:NoVoicing]
+bebe
+becet [A:NoVoicing]
+bed [P:Adj]
+bedel
+bedel [P:Adj]
+beden
+bediî
+bediî [P:Adj]
+bedik
+bedir [A:LastVowelDrop]
+bedük
+begüm
+beher
+beher [P:Adj]
+behey [P:Interj]
+behre
+beis
+bej
+bej [P:Adj]
+bek
+bek [P:Adj]
+beka
+bekar
+bekâr
+bekas
+bekçi
+bekri [P:Adj]
+bel
+belâ
+belce
+belde
+belek
+belen
+beleş [P:Adj]
+belge
+belgi
+beli [P:Adv]
+beliğ [P:Adj]
+belik
+belit [A:NoVoicing]
+belki [P:Adv]
+belki [P:Conj]
+belli [P:Adj]
+bemol [A:InverseHarmony]
+ben
+ben [P:Pron,Pers]
+benek
+bengi
+bengi [P:Adj]
+beniz [A:LastVowelDrop]
+bent [A:Voicing]
+berat [A:NoVoicing]
+bere
+beri [P:Adj]
+beri [P:Postp,PCAbl]
+beril
+berk [P:Adj]
+berrî
+besi
+besin
+beste
+beşer
+beşer [P:Adj]
+beşik
+beşiz [P:Adj]
+beşme
+beşon
+beşuş [P:Adj]
+bet
+beta
+beter [P:Adj]
+beti
+betik
+betim
+beton
+beton [P:Adj]
+beyan
+beyaz
+beyaz [P:Adj]
+beyin [A:LastVowelDrop]
+beyit [A:LastVowelDrop]
+beyzî
+bez
+bez [P:Adj]
+beze
+bezek
+bezen
+bezgi
+bezik
+bezir [A:LastVowelDrop]
+bezm
+bıcıl
+bıcır [P:Dup]
+bıçak
+bıçık
+bıçkı
+bıdık [P:Adj]
+bıyık
+bızır
+biat [A:InverseHarmony]
+biber
+bibi
+biblo
+bici [P:Dup]
+bicik
+biçem
+biçim
+biçki
+bidar [P:Adj]
+bidat [A:InverseHarmony]
+bide
+bidon
+bihuş [P:Adj]
+bijon
+bikes [P:Adj]
+bikes [P:Adv]
+bikir [A:LastVowelDrop]
+bilar
+bile [P:Adv]
+bile [P:Conj]
+bilek
+bilet [A:NoVoicing]
+bilge [P:Adj]
+bilgi
+bili
+bilim
+biliş
+bilye
+bina
+bindi
+binek
+binek [P:Adj]
+bingi
+bini
+binit [A:NoVoicing]
+bir [P:Adj]
+bir [P:Adv]
+bir [P:Det]
+bira
+biraz [P:Adj]
+biraz [P:Adv]
+birey
+biri [P:Pron, Quant]
+birim
+birun
+bis [P:Adv]
+bişek
+bişi
+bit
+bitap [P:Adj]
+bitek [P:Adj]
+bitey
+bitik [P:Adj]
+bitim
+bitki
+bitüm
+biye
+biyel
+biz
+biz [P:Pron,Pers]
+bizar [P:Adv]
+bizon
+blok [A:NoVoicing]
+blok [P:Adj;A:NoVoicing]
+bloke [P:Adj]
+blöf
+blum
+bluz
+boa
+bobin
+boca
+boci
+bocuk
+boduç
+bodur [P:Adj]
+boğa
+boğak
+boğaz
+boğuk [P:Adj]
+boğum
+bohça
+bohem [P:Adj]
+bok
+bok [P:Adj]
+boks
+bol [A:InverseHarmony]
+bol [P:Adj]
+bold
+bom
+bomba
+bombe
+bone
+bono
+bop
+bor
+bor [P:Adj]
+bora
+borak [P:Adj; A:NoVoicing]
+boran
+borat [A:NoVoicing]
+borç [A:Voicing]
+borda
+bordo
+bordo [P:Adj]
+borik
+borsa
+boru
+boruk
+boslu
+boş [P:Adj]
+boş [P:Adv]
+bot
+boy
+boya
+boyar
+boyna
+boyoz
+boyun [A:LastVowelDrop]
+boyut [A:NoVoicing]
+boz
+boz [P:Adj]
+boza
+bozuk [P:Adj]
+bozum
+böbür
+böce
+böcek
+böcü
+böğ
+böğür [A:LastVowelDrop]
+böke
+böle
+bölge
+bölme
+bölü
+bölük
+bölüm
+bölüt [A:NoVoicing]
+bön [P:Adj]
+börek
+börk
+börtü [P:Dup]
+böyle [P:Adj]
+böyle [P:Adv]
+branş
+bravo [P:Interj]
+bre [P:Conj]
+bre [P:Interj]
+breş
+briç
+brik
+briz
+brom
+bronş
+bronz
+bronz [P:Adj]
+broş
+bröve
+brüt [P:Adj]
+buat [A:NoVoicing]
+bucak
+budak
+budun
+bugün [P:Adv]
+bugün [P:Noun, Time]
+buğra
+buğu
+buğur
+buhar
+buhur
+buji
+buke
+buket [A:NoVoicing]
+bukle
+bul
+bula
+bulak
+bulgu
+bulûğ
+buluş
+bulut [A:NoVoicing]
+bun
+bunak [P:Adj]
+bunca [P:Adj]
+bunca [P:Adv]
+bunlu [P:Adj]
+bura
+burcu
+burç [A:Voicing]
+burgu
+burma
+burma [P:Adj]
+burs
+buru
+buruk
+buruk [P:Adj]
+burun [A:LastVowelDrop]
+buse
+but [A:Voicing]
+butik
+buton
+buut
+buyot [A:NoVoicing]
+buz
+buz [P:Adj]
+buzla
+buzul
+bücür [P:Adj]
+bücüş
+büfe
+büğe
+büğet [A:NoVoicing]
+büğlü
+bük
+büken
+büküç
+bükük [P:Adj]
+büküm
+bükün
+büluğ
+bünye
+bürgü
+büro
+bürük
+bürün
+büst
+bütan
+bütçe
+büten
+bütün
+bütün [P:Adj]
+büve
+büvet [A:NoVoicing]
+büyü
+büyük [P:Adj]
+büz
+büzgü
+büzük [P:Adj]
+caba
+caba [P:Adv]
+cacık
+cadde
+cadı
+cağ
+cahil [P:Adj]
+caiz [P:Adj]
+caize
+caka
+calip [P:Adj]
+cam
+cam [P:Adj]
+camız
+cami
+cami [P:Adj]
+camia
+camit [P:Adj]
+can
+can [P:Adj]
+cana [P:Interj]
+canan
+cani
+cani [P:Adj]
+canip
+canlı
+canlı [P:Adj]
+canlı [P:Adv]
+car
+cari [P:Adj]
+cart
+carta
+casus
+cayır [P:Dup]
+caz
+cazır [P:Dup]
+cazip [P:Adj]
+cebe
+cebel
+cebin
+cebin [P:Adj]
+cebir [A:LastVowelDrop]
+cebrî [P:Adj]
+cedit [P:Adj]
+cedre
+cefa
+cehil [A:LastVowelDrop]
+cehit [A:Voicing, LastVowelDrop]
+cehre
+cehri
+ceht
+ceket [A:NoVoicing]
+celâl [A:InverseHarmony]
+celbe
+celep
+celi [P:Adj]
+celil [P:Adj]
+celp [A:Voicing]
+celse
+cem
+cemal [A:InverseHarmony]
+ceman [P:Adv]
+cemi [P:Adj]
+cemil [P:Adj]
+cemre
+cenah
+cenap
+cenin
+cenk
+cenup
+cep [A:Voicing]
+cephe
+cer [A:Doubling]
+ceren
+cerh
+ceset
+cesim [P:Adj]
+ceste [P:Dup]
+cesur [P:Adj]
+cesur [P:Adv]
+cet [P:Noun; A:Voicing, Doubling]
+cevap
+cevaz
+cevir [A:LastVowelDrop]
+ceviz
+ceviz [P:Adj]
+cevvi [P:Adj]
+ceza
+cezai [P:Adj]
+cezbe
+cezir [A:LastVowelDrop]
+cezp [A:Voicing]
+cezrî [P:Adj]
+cezve
+chat
+cıbıl [P:Adj]
+cıcık
+cıda
+cık [P:Interj]
+cılız [P:Adj]
+cılız [P:Adv]
+cılk [P:Adj]
+cır [P:Dup]
+cırt
+cıs [P:Interj]
+cıva
+cıvık [P:Adj]
+cıvıl [P:Dup]
+cıyak [P:Dup]
+cız
+cızık
+cızır [P:Dup]
+cibin
+cibre
+cici [P:Adj]
+cicik
+cicim
+cicoz
+cicoz [P:Interj]
+cidal [A:InverseHarmony]
+cidar
+ciddi [P:Adj]
+ciddi [P:Adv]
+cif
+cife
+cife [P:Adj]
+ciğer
+cihan
+cihar
+cihat
+cihaz
+cihet [A:NoVoicing]
+cila
+cilt [A:Voicing]
+cilve
+cim
+cima
+cimri [P:Adj]
+cin
+cinai [P:Adj]
+cinas
+cins
+cins [P:Adj]
+cinsî [P:Adj]
+cip
+cips
+cirim [A:LastVowelDrop]
+cirit
+ciro
+cisim [A:LastVowelDrop]
+civan
+civan [P:Adj]
+civar
+civar [P:Adj]
+ciyak [P:Dup]
+cizye
+conta
+cop
+corum
+coşku
+cönk
+cudam
+cuk [P:Adv]
+cukka
+cuma
+cumba
+cunda
+cunta
+cup
+cura
+cura [P:Adj]
+curt [P:Dup]
+cuşiş
+cübbe
+cüce [P:Adj]
+cücük
+cüda [P:Adj]
+cülûs [Ref:cülus]
+cümle
+cümle [P:Adj]
+cümle [P:Pron, Quant]
+cünha
+cünun
+cünüp [P:Adj]
+cüret [A:NoVoicing]
+cüruf
+cürüm [A:LastVowelDrop]
+cüsse
+cüz
+cüzi [P:Adj]
+çaba
+çabuk [P:Adj]
+çabuk [P:Adv]
+çaça
+çadır
+çağ
+çağa
+çağla
+çağrı
+çak [P:Adj]
+çakal
+çakal [P:Adj]
+çakar
+çaker
+çakı
+çakıl
+çakım
+çakın
+çakır
+çakır [P:Adj]
+çakma
+çakma [P:Adj]
+çakra
+çal
+çala [P:Adj]
+çalak [P:Adj]
+çalak [P:Adv]
+çalap
+çalar
+çalgı
+çalı
+çalık
+çalık [P:Adj]
+çalım
+çalkı
+çalma [P:Adj]
+çaltı
+çam
+çamat
+çamça
+çamur
+çamur [P:Adj]
+çan
+çanak
+çanak [P:Adj]
+çandı
+çanta
+çap
+çap [P:Adj]
+çap [P:Adv]
+çapa
+çapak
+çapar
+çapar [P:Adj]
+çapul
+çaput [A:NoVoicing]
+çar
+çare
+çarık
+çark
+çarka
+çarpı
+çarşı
+çasar
+çaşıt
+çat
+çatak
+çatak [P:Adj]
+çatal
+çatal [P:Adj]
+çatı
+çatık [P:Adj]
+çatır [P:Dup]
+çatkı
+çav
+çavun
+çavuş
+çay
+çayan
+çayır
+çebiç
+çecik
+çeç
+çeçe
+çedik
+çehre
+çek
+çekek
+çekel
+çekem
+çeker
+çeki
+çekiç
+çekik [P:Adj]
+çekim
+çekiş
+çekme
+çekme [P:Adj]
+çekül
+çelek
+çelen
+çelgi
+çelik
+çelik [P:Adj]
+çelim
+çello
+çelme
+çemçe
+çemen
+çemiç
+çene
+çenek
+çenet [A:NoVoicing]
+çengi
+çenk [A:Voicing]
+çepel
+çepel [P:Adj]
+çeper
+çepez
+çepin
+çer [P:Dup; A:NoSuffix]
+çerağ
+çerçi
+çerez
+çerge
+çeri
+çeşit
+çeşit [P:Adj]
+çeşme
+çeşni
+çete
+çetin [P:Adj]
+çevik [P:Adj]
+çevre
+çevri
+çeyiz
+çıban
+çıdam
+çıfıt [P:Adj;A:NoVoicing]
+çığa
+çığır
+çıkak
+çıkar
+çıkı
+çıkık
+çıkık [P:Adj]
+çıkın
+çıkış
+çıkıt [A:NoVoicing]
+çıkma
+çıkma [P:Adj]
+çıkra
+çıktı
+çılan
+çıma
+çın [P:Adj]
+çınar
+çıngı
+çıpa
+çıpır
+çıra
+çırağ
+çırak
+çırpı
+çıt
+çıta
+çıtak [P:Adj]
+çıtır [P:Dup]
+çıyan
+çıyan [P:Adj]
+çiçek
+çift
+çift [P:Adj]
+çifte
+çifte [P:Adj]
+çiğ [P:Adj]
+çiğde
+çiğin
+çiğit
+çil
+çil [P:Adj]
+çile
+çilek
+çim
+çimek [P:Noun]
+çimen
+çini
+çini [P:Adj]
+çinko
+çinko [P:Adj]
+çinko [P:Interj]
+çip
+çipil [P:Adj]
+çipo
+çir
+çiriş
+çiroz
+çiroz [P:Adj]
+çis
+çise
+çiş
+çişik
+çit
+çita
+çiten
+çiti
+çitme
+çivi
+çivit
+çiy
+çizer
+çizge
+çizgi
+çizi
+çizik
+çizik [P:Adj]
+çizim
+çizme
+çoban
+çocuk [P:Adj]
+çoğu [P:Adj]
+çoğu [P:Det]
+çoğu [P:Pron, Quant]
+çoğul
+çoğul [P:Adj]
+çoğun [P:Adv]
+çok [P:Adj; A:Voicing]
+çok [P:Adv]
+çok [P:Det]
+çok [P:Postp,PCAbl]
+çokal
+çolak [P:Adj]
+çolpa [P:Adj]
+çoluk
+çomak [P:Noun]
+çomar
+çopra
+çopur [P:Adj]
+çor
+çorak
+çorak [P:Adj]
+çorap
+çorba
+çorlu [P:Adj]
+çotra
+çotuk
+çöğür
+çökek
+çökel
+çökük [P:Adj]
+çöküm
+çöl
+çömçe
+çömez
+çöp
+çör [P:Dup; A:NoSuffix]
+çörek
+çörkü
+çörtü
+çöven
+çöz
+çözgü
+çözük [P:Adj]
+çözüm
+çözüş
+çubuk
+çucu
+çuha
+çuka
+çukur
+çul
+çulha
+çupra
+çuşka
+çutur [P:Dup]
+çuval
+çük
+çükür
+çünkü [P:Conj]
+çürük
+çürük [P:Adj]
+dadaş
+dadaş [P:Interj]
+dadı
+dağ
+dağar
+daği
+dağlı [P:Adj]
+dah [P:Interj]
+daha [P:Adv]
+daha [P:Noun, Time]
+dâhi [P:Adj]
+dahi [P:Conj]
+dâhil
+dahil [A:LastVowelDrop]
+dâhil [P:Adv]
+daim [P:Adj]
+daim [P:Adv]
+daima [P:Adv]
+daimî [P:Adj]
+dair [P:Postp,PCDat]
+daire
+dakik [P:Adj]
+dal
+dal [P:Adj]
+dalak
+dalan
+dalaş
+dalga
+dalgı
+dalız
+dalya
+dalya [P:Interj]
+dam
+dama
+damak [P:Noun]
+damar
+damat
+damga
+damla
+damla [P:Adj]
+dan [P:Dup; A:NoSuffix]
+dana
+dane
+dang
+dank [A:NoSuffix]
+dans
+dar
+dar [P:Adj]
+dar [P:Adv]
+dara
+daraç [P:Adj]
+daraş [P:Adj]
+darbe
+darı
+darp [A:Voicing]
+dart
+daru
+dasit [A:NoVoicing]
+data
+datif
+dav
+dava
+davar
+davet [A:NoVoicing]
+davul
+davya
+dayak
+daye
+dayı
+dayı [P:Adj]
+daz [P:Adj]
+debbe
+debi
+debil [P:Adj]
+dede
+def
+defa
+defin [A:LastVowelDrop]
+defne
+defo
+degaj
+değeç
+değer
+değil [P:Verb]
+değil [P:Conj]
+değim
+değin [P:Postp,PCDat]
+değme
+değme [P:Adj]
+deh [P:Interj]
+deha
+deist [P:Adj; A:NoVoicing]
+deizm
+dek
+dek [P:Postp,PCDat]
+dekan
+dekar
+dekor
+delgi
+deli [P:Adj]
+delik
+delik [P:Adj]
+delil
+delk
+delta
+dem
+deme
+demeç
+demek
+demet [A:NoVoicing]
+demin [P:Adv]
+demir
+demir [P:Adj]
+demo
+denek
+denet [A:NoVoicing]
+deney
+denge
+deni [P:Adj]
+denim
+deniz
+denk
+denk [P:Adj]
+denli [P:Adj]
+denli [P:Adv]
+denyo
+denyo [P:Adj]
+depar
+depo
+derbi
+derç [A:Voicing]
+dere
+dergi
+deri
+deri [P:Adj]
+derin
+derin [P:Adj]
+derk
+ders
+dert [A:Voicing]
+derun
+derya
+derz
+desen
+deste
+deşik [P:Adj]
+detay
+dev
+dev [P:Adj]
+deva
+devam
+deve
+devim
+devir [A:LastVowelDrop]
+devre
+devre [P:Adv]
+devrî [P:Adj]
+deyi
+deyi [P:Dup; A:NoSuffix]
+deyim
+deyiş
+dığan
+dılak
+dır [P:Dup; A:NoSuffix]
+dış
+dış [P:Adj]
+dışık
+dışkı
+diba
+dibek
+didar
+dide
+didik [P:Dup; A:NoSuffix]
+didon
+diğer [P:Adj]
+dik [P:Adj]
+dikeç
+diken
+dikey [P:Adj]
+dikey [P:Adv]
+dikim
+dikiş
+dikit [A:NoVoicing]
+dikiz
+dikme
+dikse
+dikta
+dikte
+dil
+dilek
+dilim
+dimağ
+dimi
+din
+dinar
+dinç [P:Adj]
+dinç [P:Adv]
+dine
+dinek
+dinen [P:Adv]
+dingi
+dinî [P:Adj]
+diniş
+dink
+dip [A:Voicing]
+direk
+diren
+direy
+diri [P:Adj]
+diriğ
+diril
+dirim
+disk
+disko
+diş
+dişi
+dişi [P:Adj]
+dişil [P:Adj]
+dişli
+dişli [P:Adj]
+diva
+dival
+divan
+divik
+divit [A:NoVoicing]
+diya
+diyar
+diye [P:Postp,PCNom]
+diyet [A:NoVoicing]
+diyez
+diyez [P:Adj]
+diyot
+diz
+dize
+dizek
+dizel
+dizem
+dizey
+dizge
+dizgi
+dizi
+dizim
+dizin
+dobra [P:Adj]
+dogma
+doğa
+doğaç
+doğal [P:Adj]
+doğan
+doğma
+doğma [P:Adj]
+doğru
+doğru [P:Adj]
+doğru [P:Postp,PCDat]
+doğu [P:Adj]
+doğum
+dok
+doku
+dolak
+dolam
+dolam [P:Adj]
+dolap
+dolar
+dolay
+dolgu
+dolma
+dolma [P:Adj]
+dolu
+dolu [P:Adj]
+dolum
+domur
+domuz
+don
+donam
+done
+donör
+donra
+donuk [P:Adj]
+dore
+dore [P:Adj]
+dorse
+doru [P:Adj]
+doruk
+dorum
+dost
+dost [P:Adj]
+dosya
+doygu
+doyum
+doz
+dozaj
+dozer
+dökme
+dökme [P:Adj]
+dökük [P:Adj]
+döküm
+döküm [P:Adj]
+döl
+dölek [P:Adj]
+dölüt [A:NoVoicing]
+döneç
+dönek [P:Adj]
+dönel [P:Adj]
+dönem [P:Noun, Time]
+döner
+döner [P:Adj]
+döngü
+dönme
+dönme [P:Adj]
+dönük [P:Adj]
+dönüm
+dönüt [A:NoVoicing]
+döş
+döşek
+döşem
+döveç
+döviz
+dövme
+dövüş
+draje
+dram
+drama
+dren
+drog
+dua
+duba
+dubar
+duble
+duble [P:Adj]
+dudak
+dudu
+duhul [A:InverseHarmony]
+duka
+dul [P:Adj]
+dulda
+duluk
+duman
+dumur
+dun [P:Adj]
+dun [P:Dup; A:NoSuffix]
+duraç
+durak
+dural [P:Adj]
+durgu
+duru [P:Adj]
+duruk
+duruk [P:Adj]
+durum
+duş
+duşak
+dut
+duvak
+duvar
+duy
+duyar [P:Adj]
+duygu
+duyu
+duyum
+dübel
+dübeş
+düçar [P:Adj]
+düden
+düdük
+düet [A:NoVoicing]
+dügâh
+düğme
+düğü
+düğüm
+düğün
+dük
+dümen
+dün [P:Adv]
+dün [P:Noun, Time]
+dünit [A:NoVoicing]
+dünür
+dünya
+dürme
+dürtü
+dürü
+dürüm
+düse
+düş
+düşes
+düşeş
+düşey [P:Adj]
+düşkü
+düşük
+düşük [P:Adj]
+düşüm
+düşün
+düşüt
+düve
+düvel
+düven
+düver
+düyek
+düyun
+düz
+düz [P:Adj]
+düzce [P:Adj]
+düze
+düzeç
+düzem
+düzen
+düzey
+düzgü
+düzme [P:Adj]
+ebat
+ebcet
+ebe
+ebedî [P:Adj]
+ebet
+ebleh [P:Adj]
+ebru
+ecdat
+ece
+ecel
+ecir [A:LastVowelDrop]
+eciş [P:Dup; A:NoSuffix]
+ecza
+eçhel [P:Adj]
+eda
+edat [A:NoVoicing]
+ede
+edebî [P:Adj]
+edep
+eder
+edi
+edik
+edim
+edinç
+edip
+edna [P:Adj]
+edvar
+efdal [P:Adj]
+efe
+efekt [A:NoVoicing]
+efkâr
+eflak [A:InverseHarmony]
+efor
+efrat
+efriz
+efsun
+efsus [P:Interj]
+egale [A:NoSuffix]
+ege
+eglog
+ego
+egzoz
+eğe
+eğer [P:Conj]
+eğiç
+eğik
+eğik [P:Adj]
+eğim
+eğin [A:LastVowelDrop]
+eğir
+eğlek
+eğmeç
+eğmek
+eğrez
+eğri
+eğri [P:Adj]
+eğri [P:Adv]
+eğrim
+eğrim [P:Adj]
+eğsi
+ehem [P:Adj; A:Doubling]
+ehil [A:LastVowelDrop]
+ehlî [P:Adj]
+ehram
+ehven [P:Adj]
+ejder
+eke
+eke [P:Adj]
+ekili [P:Adj]
+ekim
+ekin
+ekip
+ekit
+eklem
+ekler
+ekli [P:Adj]
+ekmek
+ekmek [P:Noun]
+eko
+ekol [A:InverseHarmony]
+ekose [P:Adj]
+ekran
+ekru
+ekru [P:Adj]
+eksen
+ekser
+eksi
+eksi [P:Adj]
+eksik [P:Adj]
+eksin
+ekşi
+ekşi [P:Adj]
+ekü
+eküri
+ela
+ela [P:Adj]
+elan [P:Adv]
+elbet [P:Adv]
+elçek
+elçi
+elçim
+elde
+elden [P:Adv]
+eleji
+elek
+elem
+elgin [P:Adj]
+elhak [P:Adv]
+elif
+elifî [P:Adj]
+elik
+elim [P:Adj]
+elips
+elit [P:Adj; A:NoVoicing]
+ellik
+elma
+elmas
+elmas [P:Adj]
+elmek [P:Noun]
+elti
+elvan
+elvan [P:Adj]
+elyaf
+elyaf [P:Adj]
+elzem [P:Adj]
+emare
+emay
+emaye
+emaye [P:Adj]
+emcek
+emcik
+emeç
+emek [P:Noun]
+emel
+emen
+emik
+emin
+emin [P:Adj]
+emir [A:LastVowelDrop]
+emir [Index:1]
+emlak [A:InverseHarmony]
+emlik
+emme
+emmeç
+emmek
+emmi
+emraz
+emsal [A:InverseHarmony]
+emtia
+emval [A:InverseHarmony]
+emzik
+enam
+enayi [P:Adj]
+encam
+endam
+ender [P:Adj]
+ender [P:Adv]
+enek [P:Adj]
+enez [P:Adj]
+eneze [P:Adj]
+enfes [P:Adj]
+engel
+engin
+engin [P:Adj]
+enik
+enir
+enkaz
+enlem
+enöte
+ensar
+ense
+entel
+entel [P:Adj]
+enva
+enzim
+eosen
+epe
+eper
+epey [P:Adv]
+epeyi [P:Adv]
+epik [P:Adj]
+epope
+erat [A:NoVoicing]
+erbap
+erbaş
+erbin
+erdem
+erden [P:Adj]
+erden [P:Adv]
+erek
+eren
+erg
+ergen [P:Adj]
+ergi
+ergin [P:Adj]
+erik
+erika
+eril [P:Adj]
+erim
+erinç
+erk
+erkân
+erke
+erkeç
+erkek
+erkek [P:Adj]
+erken [P:Adv]
+erken [P:Noun, Time]
+erkin [P:Adj]
+ermek
+ermin
+eroin
+eros
+ervah
+erzak [A:NoVoicing]
+erzel [P:Adj]
+esame [A: ImplicitPlural]
+esans
+esas
+esas [P:Adj]
+esasi [P:Adj]
+esbak [P:Adj]
+esbap
+esef
+eseme
+esen [P:Adj]
+eser
+esham
+esik
+esim
+esin
+esir
+esire
+eski
+eski [P:Adj]
+eskiz
+eslaf
+eslek [P:Adj]
+esmek
+esmer
+esmer [P:Adj]
+esna
+esnaf
+esnek [P:Adj]
+espas
+espri
+esrar
+esre
+esrik [P:Adj]
+essah [P:Adj]
+ester
+estet [A:NoVoicing]
+esvap
+eşarp
+eşek
+eşey
+eşhas
+eşik
+eşit [P:Adj; A:NoVoicing]
+eşkâl [A:InverseHarmony]
+eşkin
+eşkin [P:Adj]
+eşkin [P:Adv]
+eşlek
+eşlem
+eşmek
+eşraf
+eşref [P:Adj]
+eşya
+etap
+etçil [P:Adj]
+etek
+eten
+etene
+eter
+etik
+etik [P:Adj]
+etil
+etken
+etki
+etkin [P:Adj]
+etlik
+etmek [A:Voicing, Aorist_A]
+etmen
+etnik [P:Adj]
+etol [A:InverseHarmony]
+etraf
+etüt
+etüv
+evaze [P:Adj]
+evcek [P:Adv]
+evcil [P:Adj]
+evç [A:Voicing]
+evdeş
+evet [P:Adv]
+evgin [P:Adj]
+evham
+eviç [A:Voicing, LastVowelDrop]
+evin
+eviye
+evkaf
+evlâ
+evlât
+evlek
+evli [P:Adj]
+evrak [A:NoVoicing]
+evrat
+evre
+evren
+evrik [P:Adj]
+evrim
+evsaf
+evsin
+evvel [P:Noun, Time]
+evvel [P:Postp,PCAbl]
+eyer
+eylem
+eylül
+eytam
+eyvah
+eyvan
+eyyam
+eza
+ezan
+ezanî
+ezber
+ezel
+ezelî [P:Adj]
+ezgi
+ezgiç
+ezgin [P:Adj]
+ezik [P:Adj]
+ezinç
+ezmek
+faal [P:Adj; A:InverseHarmony]
+fabl
+facia
+faça
+fagot [A:NoVoicing]
+fahiş [P:Adj]
+fahrî
+fahte
+fahur [P:Adj]
+faik [P:Adj]
+fail [P:Adj]
+faiz
+fak
+fakat [P:Conj]
+fakır [A:LastVowelDrop]
+fakih
+fakir [P:Adj]
+fakr
+faks
+fakül
+fal
+falan
+falan [P:Adj]
+falan [P:Pron]
+falez
+falso
+falya
+fan
+fani
+fâni [P:Adj]
+fanta
+fanti
+fanus
+fanya
+far
+faraş
+farba
+fare
+fariğ [P:Adj]
+faril
+fark
+fars
+farz
+fasa [P:Dup]
+faset
+fasıl [A:LastVowelDrop]
+fasih [P:Adj]
+fasih [P:Adv]
+fasit [P:Adj; A:NoVoicing]
+faska
+fason
+faş
+fatih [P:Adj]
+faul [A:InverseHarmony]
+fauna
+fava
+fay
+fayda
+faz
+fazıl [P:Adj]
+fazla [P:Adj]
+fazla [P:Adv]
+fazla [P:Postp,PCAbl]
+feci [P:Adj]
+fecir [A:LastVowelDrop]
+feda
+fedaî
+fehim
+fehva
+fek [A:Doubling]
+fekül
+fel
+felâh
+felç [A:Voicing]
+felek
+fen [A:Doubling]
+fena [P:Adj]
+fener
+fenik
+fennî [P:Adj]
+fenol [A:InverseHarmony]
+fent [A:Voicing]
+fer
+ferağ
+ferah [P:Adj]
+ferç [A:Voicing]
+ferda
+ferde
+ferdî [P:Adj]
+ferî [P:Adj]
+ferih [P:Adj]
+ferik
+ferma
+fert [A:Voicing]
+ferz
+fes
+fesat
+fesat [P:Adj]
+fesih [A:LastVowelDrop]
+fetha
+fetih [A:LastVowelDrop]
+fetiş
+fetüs
+fetva
+fevç [A:Voicing]
+fevk
+fevrî
+fevt
+feyiz [A:LastVowelDrop]
+feza
+fıçı
+fıkı [P:Dup]
+fıkıh [A:LastVowelDrop]
+fıkır [P:Dup]
+fıkra
+fır
+fır [P:Adv]
+fırça
+fırıl [P:Dup]
+fırın
+fırka
+fırt
+fıs [P:Dup]
+fısıl [P:Dup]
+fısır [P:Dup]
+fış [P:Dup]
+fışır [P:Dup]
+fışkı
+fıtık
+fıtrî
+fiber
+fidan
+fide
+fidye
+fifre
+figan
+figür
+fiğ
+fiil
+fiilî [P:Adj]
+fikir [A:LastVowelDrop]
+fikrî [P:Adj]
+fil
+filân
+filar
+file
+filet [A:NoVoicing]
+filiz
+film
+filo
+filoz
+filum
+final [A:InverseHarmony]
+finiş
+fink
+fino
+firak [A:NoVoicing]
+firar
+fire
+fire [P:Adj]
+firez
+firik
+firma
+fiske
+fiske [P:Adj]
+fiso [P:Dup]
+fisto
+fisto [P:Adj]
+fiş
+fişe
+fişek
+fişka
+fit
+fitil
+fitin
+fitne
+fitne [P:Adj]
+fitre
+fiyat [A:NoVoicing]
+fizik
+flâma
+flâş
+fleol [A:InverseHarmony]
+flit
+flok
+flor
+flora
+flori
+floş
+flöre
+flört
+flüor
+flüt
+fob
+fobi
+fodla
+fodra
+fodul [P:Adj]
+fok
+fokur [P:Dup]
+fokus
+fol
+folk
+folyo
+fon
+fonda
+fonem
+font
+fora
+fora [P:Interj]
+form
+forma
+foroz
+fors
+forsa
+forte [P:Adv]
+forum
+forza
+fos [P:Adj]
+fosil
+fosur [P:Dup]
+foşa
+fota
+foto
+foya
+fön
+fötr
+fötr [P:Adj]
+föy
+frak
+frank
+fren
+frer
+fresk
+freze
+fribo
+frigo
+frisa
+friz
+fuar
+fuaye
+fuhuş [A:LastVowelDrop]
+fujer
+ful [A:InverseHarmony]
+fulâr
+fule
+fulya
+funda
+furya
+fut
+futa
+fücur
+füg
+fülûs
+fülüs
+füme [P:Adj]
+fünye
+füru
+füsun
+fütur
+füze
+füzen
+gabi [P:Adj]
+gabin
+gabro
+gabya
+gacır [P:Dup]
+gaco
+gadir [A:LastVowelDrop]
+gaf
+gafil [P:Adj]
+gafur [P:Adj]
+gag
+gaga
+gâh [P:Adv]
+gâhi [P:Adv]
+gaile
+gaip [P:Adj]
+gaita
+gak
+gala
+galat [A:NoVoicing]
+gale
+gali
+galip [P:Adj]
+galiz [P:Adj]
+galon
+galoş
+gam
+gama
+gamba
+gamet
+gamze
+gang
+gani [P:Adj]
+gar
+garaj
+garaz
+garbî
+garç [P:Dup]
+gard
+garez
+garip [P:Adj]
+gark [A:NoVoicing]
+garoz
+garp [A:Voicing]
+gasıp
+gasil [A:LastVowelDrop]
+gasp [A:Voicing]
+gaşiy [A:LastVowelDrop]
+gato
+gauss
+gavot [A:NoVoicing]
+gâvur [P:Adj]
+gayda
+gaye
+gayet [A:NoVoicing]
+gayet [P:Adv]
+gayr [A:InverseHarmony]
+gayrı [P:Adj]
+gayrı [P:Adv]
+gayrı [P:Postp,PCAbl]
+gayri [P:Adv]
+gayur [P:Adj]
+gayya
+gayz
+gaz
+gaza
+gazal [A:InverseHarmony]
+gazap
+gazel
+gazi
+gazoz
+gazup
+gazve
+gebe [P:Adj]
+gebeş [P:Adj]
+gebre
+gece [P:Adv]
+gece [P:Noun, Time]
+geç [P:Adj]
+geç [P:Adv]
+geçe [P:Postp,PCNom]
+geçek
+geçen [P:Adj]
+geçer
+geçer [P:Adj]
+geçim
+geçit
+geda [P:Adj]
+gedik
+gele
+gelin
+gelir
+gem
+gemi
+gen
+gen [P:Adj]
+genç [A:Voicing]
+genç [P:Adj]
+gene [P:Adv]
+genel [P:Adj]
+geniş [P:Adj]
+geniz [A:LastVowelDrop]
+genom
+geoit
+gerçi [P:Adv]
+gereç
+gerek
+gerek [P:Adj]
+geren
+gergi
+geri
+geri [P:Adj]
+geri [P:Adv]
+geriz
+getr
+getto
+geven
+geviş
+gey
+geyik
+geyşa
+gez
+gezi
+gezi [P:Adj]
+gıcık
+gıcık [P:Adj]
+gıcır [P:Adj]
+gıda
+gıdı
+gıdık
+gıdım
+gıgı
+gık
+gına
+gıpta
+gır
+gır [P:Adj]
+gırç [P:Dup]
+gırla [P:Adv]
+gırt
+gıy [P:Dup]
+gıyap
+gibi [P:Postp,PCGen]
+gibi [P:Postp,PCNom]
+gider
+gidi [P:Adj]
+gidi [P:Interj]
+gidon
+gine [P:Adv]
+giray
+girdi
+girim
+giriş
+gişe
+gitar
+giyim
+giyit [A:NoVoicing]
+giysi
+giz
+gizem
+gizil [P:Adj]
+gizli [P:Adj]
+glâse
+gnays
+gocuk
+godoş [P:Adj]
+gol [A:InverseHarmony]
+golf [A:InverseHarmony]
+gonca
+gonk
+goril
+gotik
+göbek
+göbel
+göce
+göcen
+göç
+göçer [P:Adj]
+göçü
+göçük
+göçüm
+göden
+gödeş [P:Adj]
+göğem [P:Adj]
+göğüs [A:LastVowelDrop]
+gök [A:Voicing]
+gök [P:Adj; A:Voicing]
+gökçe [P:Adj]
+göl
+gölek
+gölet [A:NoVoicing]
+gölge
+gömme [P:Adj]
+gömü
+gömük [P:Adj]
+gömüt [A:NoVoicing]
+gön
+gönç [P:Adj]
+gönen
+gönen [P:Adj]
+gönül [A:LastVowelDrop]
+gönye
+göre [P:Postp,PCDat]
+görev
+görgü
+görk
+görü
+görüm
+görüş
+göt
+götün [P:Dup]
+gövde
+gövek
+gövel [P:Adj]
+gövem
+göyük
+göyük [P:Adj]
+göz
+gözcü
+gözde
+gözde [P:Adj]
+göze
+gözer
+gözgü
+grado
+gram [Pr:gıram]
+gren
+grena
+gres
+grev
+gri
+gri [P:Adj]
+gril
+grip [A:Voicing]
+grizu
+grosa
+grup [A:Voicing]
+guaj
+guano
+guard
+guaş
+guatr
+gucur [P:Dup]
+gudde
+guguk
+gulâş
+gulet [A:NoVoicing]
+gulu [P:Dup]
+gurç [P:Dup]
+gurk
+guru
+gurup
+gurur
+gusto
+gusül [A:LastVowelDrop]
+guşa
+gut
+gübre
+gübür
+gücük
+gücük [P:Adj]
+gücün [P:Adv]
+güç [A:Voicing]
+güç [P:Adj]
+güçlü [P:Adj]
+güdek
+güdü
+güdük [P:Adj]
+güdüm
+güfte
+güğüm
+gül
+güleç [P:Adj]
+gülle
+gülük
+gülüt [A:NoVoicing]
+güm
+güme
+gümeç
+gümül
+gümüş
+gümüş [P:Adj]
+gün [P:Noun, Time]
+günah
+günah [P:Adj]
+günce
+güneç
+güneş
+güney [P:Adj]
+günü
+gür [P:Adj]
+güre
+güre [P:Adj]
+güreş
+güruh
+gürül [P:Dup]
+gürz
+güve
+güveç
+güven
+güvey
+güvez [P:Adj]
+güya [P:Adv]
+güz
+güzaf
+güzel [P:Adj]
+güzey
+güzün [P:Adv]
+hab
+habbe
+haber
+habip
+habis [P:Adj]
+hac [A:Doubling]
+hacet [A:NoVoicing]
+hacı
+hacim [A:LastVowelDrop]
+hacir [A:LastVowelDrop]
+haciz [A:LastVowelDrop]
+haç
+had [P:Noun; A:Doubling, InverseHarmony]
+hadde
+hadım
+hadi [P:Interj]
+hadim [P:Adj]
+hadis
+hâdis
+haf
+hafız [P:Adj]
+hafi [P:Adj]
+hafif [P:Adj]
+hafit
+hafta [P:Adv, Time]
+hafta [P:Noun, Time]
+hah [P:Interj]
+haham
+hahha
+hail
+haile
+hain [P:Adj]
+haiz [P:Adj]
+haje
+hak [A:Doubling]
+hak [P:Adj]
+hak [P:Noun; A:Doubling, InverseHarmony ; Index:1]
+hakan
+hakem
+hâkî [P:Adj]
+hâkim
+hâkim [P:Adj]
+hakir [P:Adj]
+hal [A:Doubling, InverseHarmony]
+hal [A:InverseHarmony; Index:1]
+hâl [A:InverseHarmony]
+hal [Index:2]
+hala
+hâlâ [P:Adv]
+halâs
+halat [A:NoVoicing]
+halay
+hale
+halef
+halel
+hâlen [P:Adv]
+hâlet [A:NoVoicing]
+halfa
+halı
+haliç
+halik [A:NoVoicing]
+halim [P:Adj]
+halis [P:Adj]
+halk
+halka
+halka [P:Adj]
+halt
+haluk [A:NoVoicing]
+haluk [P:Adj]
+ham [P:Adj]
+hamak [P:Noun]
+hamal
+hamam
+hamız
+hami [P:Adj]
+hamil [P:Adj]
+hamiş
+hamle
+hamse
+hamsi
+hamt [A:Voicing]
+hamur
+hamur [P:Adj]
+hamut
+han
+hanay
+hande
+hane
+hanek [A:NoVoicing]
+hangi [P:Adj]
+hangi [P:Pron,Ques]
+hanım [P:Adj]
+hani
+hani [P:Adv]
+hanut
+hap
+hapaz
+hapır [P:Dup]
+hapis [A:LastVowelDrop]
+hapis [P:Adj]
+hapşu
+har
+hara
+haraç
+haram
+haram [P:Adj]
+harap [P:Adj]
+harar
+harbe
+harbî [P:Adj]
+harç [A:Voicing]
+hare
+harem
+harf [A:InverseHarmony]
+harıl [P:Dup]
+harım
+harın [P:Adj]
+hariç
+hariç [P:Adv]
+harim
+harir
+haris [P:Adj]
+harp [A:Voicing, InverseHarmony]
+hars
+hart [P:Adv]
+harta
+has [P:Adj]
+hasa
+hasar
+hasat
+hasbî
+hasep
+haset
+haset [P:Adj]
+hâsıl
+hasıl [P:Adj]
+hasım [A:LastVowelDrop]
+hasır
+hasır [P:Adj]
+hasis [P:Adj]
+haspa
+hassa
+hasse
+hasta [P:Adj]
+hasut [A:LastVowelDrop]
+hasut [P:Adj]
+hâşâ [P:Interj]
+haşat [P:Adj]
+haşıl
+haşır [P:Dup]
+haşin [P:Adj]
+haşin [P:Adv]
+haşir [A:LastVowelDrop]
+haşiş
+haşiv [A:LastVowelDrop]
+hat [A:Doubling]
+hata
+hatıl
+hatır
+hatif
+hatif [P:Adj]
+hatim [A:LastVowelDrop]
+hatip
+hatmi
+hatta [P:Adv]
+hatta [P:Conj]
+hatun
+hav
+hav [P:Dup]
+hava
+havaî
+havan
+havas
+havi [P:Adj]
+havil [A:LastVowelDrop]
+havlu
+havra
+havuç
+havut
+havuz
+havya
+havza
+hay [P:Interj]
+haya
+hayâ
+hayal [A:InverseHarmony]
+hayat [A:NoVoicing]
+haybe
+hayda [P:Interj]
+haydi [P:Adv]
+haydi [P:Interj]
+hayfa [P:Interj]
+hayıf [A:LastVowelDrop]
+hayır [A:LastVowelDrop]
+hayır [P:Adj]
+hayıt
+hayız [A:LastVowelDrop]
+hayli [P:Adj]
+hayli [P:Adv]
+hayta [P:Adj]
+haz [A:Doubling]
+haza [P:Adv]
+hazan
+hazar
+hazık [P:Adj; A:NoVoicing]
+hazım [A:LastVowelDrop]
+hazın
+hazır [P:Adj]
+hazin [P:Adj]
+hazne
+heba
+hece
+hecin
+hedef
+heder
+hedik
+hekim
+helâ
+helâk [A:InverseHarmony]
+helâl [A:InverseHarmony]
+hele [P:Conj]
+helik
+helis
+helke
+helme
+helva
+hem [P:Conj]
+hemen [P:Adj]
+hemen [P:Adv]
+hempa
+hemze
+henüz [P:Adv]
+hep [P:Adv]
+hep [P:Pron,Quant]
+hepsi [P:Pron,Quant]
+her [P:Adj]
+her [P:Det]
+herek
+herif
+herik
+herk
+hertz
+herze
+hesap
+heves
+hey [P:Interj]
+heybe
+heyet [A:NoVoicing]
+hezel
+hıdiv
+hıfız
+hıfz
+hık
+hımış
+hınç [A:Voicing]
+hınk [P:Interj]
+hır
+hırbo [P:Adj]
+hırıl [P:Dup]
+hırka
+hırs
+hırt [P:Adj]
+hırtı [P:Dup]
+hısım
+hışıl [P:Dup]
+hışım [A:LastVowelDrop]
+hışır
+hışır [P:Adj]
+hışır [P:Dup]
+hıyar
+hız
+hızar
+hızla [P:Adv]
+hızlı [P:Adj]
+hibe
+hicap
+hicaz
+hiciv [A:LastVowelDrop]
+hicrî [P:Adj]
+hiç
+hiç [P:Adv]
+hidiv
+hidra
+hikem
+hilâf
+hilâl [A:InverseHarmony]
+hilat [A:InverseHarmony]
+hile
+hilye
+himen
+hin
+hindi
+hippi
+his [A:Doubling]
+hisar
+hisse
+hissî [P:Adj]
+hiş [P:Interj]
+hişt [P:Interj]
+hit
+hitam
+hitan
+hitap
+hiza
+hizip [A:Voicing, LastVowelDrop]
+hobi
+hoca
+hodan
+hodri
+hokey
+hokka
+hol [A:InverseHarmony]
+homur [P:Dup]
+hona
+hop [P:Interj]
+hoppa [P:Adj]
+hor [P:Adj]
+hora
+horon
+horoz
+horst
+horul [P:Dup]
+hoş [P:Adj]
+hoşaf
+hoşt
+hoşur [P:Adj]
+hotoz
+hoyuk
+hozan
+hödük
+höl
+höpür [P:Dup]
+höst [P:Interj]
+höt [P:Interj]
+höyük
+hudut
+huğ
+hukuk [A:NoVoicing]
+hulûl [A:InverseHarmony]
+hulûs
+hulya
+hum [P:Dup]
+humar
+humma
+humor
+humus
+hun
+huni
+hupur [P:Dup]
+hurç [A:Voicing]
+hurda [P:Adj]
+huri
+hurma
+hurra [P:Interj]
+hurt [P:Dup]
+huruç
+husuf
+husul [A:InverseHarmony]
+husus
+husye
+huş
+huşu
+hutbe
+hutut
+huy
+huzur
+hücre
+hücum
+hükmî
+hüküm [A:LastVowelDrop]
+hülle
+hülya
+hüner
+hünsa [P:Adj]
+hür [P:Adj]
+hür [P:Adv]
+hürle
+hürya [P:Adv]
+hüsün [A:LastVowelDrop]
+hüzün [A:LastVowelDrop]
+hüzme
+ığıl
+ığrıp
+ıhma
+ıhmak
+ıkına [P:Dup]
+ılgar
+ılgım
+ılgın [P:Adj]
+ılgıt [P:Dup]
+ılıca
+ılık [P:Adj]
+ılım
+ıltar
+ıpıl [P:Dup]
+ıra
+ırak [P:Adj]
+ırgat [A:NoVoicing]
+ırıp
+ırk
+ırkî
+ırmak [P:Noun]
+ırz
+ısı
+ısıl [P:Adj]
+ısın
+ıska
+ıskat [A:NoVoicing]
+ıslah
+ıslak [P:Adj]
+ıslık
+ısrar
+ıssız [P:Adj]
+ıstar
+ışık
+ışıl
+ışıl [P:Adj]
+ışın
+ışkı
+ışkın [P:Adj]
+ıştır
+ıtır
+ıtlak
+ıtrah
+ıtrî
+ıvır [P:Dup]
+ızgın
+ızrar
+iade
+iane
+iare
+iaşe
+ibare
+ibate
+ibda
+ibdaî
+ibik
+ibis
+ibiş
+ibiş [P:Adj]
+iblâğ
+iblis
+ibne
+ibra
+ibraz
+ibre
+ibret [A:NoVoicing]
+ibret [P:Adj]
+ibrik
+ibzal [A:InverseHarmony]
+icap
+icar
+icat
+icaz
+icbar
+icmal [A:InverseHarmony]
+icra
+içeri [P:Adj]
+içeri [P:Adv]
+içiiş
+içim
+için [P:Postp,PCNom]
+için [P:Postp,PCGen]
+içki
+içkin [P:Adj]
+içlem
+içmek
+içre [P:Adv]
+içrek [P:Adj]
+içten [P:Adj]
+içyüz
+idadî
+idam
+idare
+idarî
+iddia
+ide
+idea
+ideal [A:InverseHarmony]
+ideal [P:Adj]
+idil
+idman
+idol [A:InverseHarmony]
+idrak [A:InverseHarmony]
+idrar
+ifa
+ifade
+iffet [A:NoVoicing]
+ifham
+iflâh
+iflâs
+ifna
+ifrağ
+ifrat [A:NoVoicing]
+ifraz
+ifrit [A:NoVoicing]
+ifsat
+ifşa
+ifta
+iftar
+iğde
+iğdiş [P:Adj]
+iğfal [A:InverseHarmony]
+iğne
+ihale
+iham
+ihata
+ihbar
+ihdas
+ihlâl [A:InverseHarmony]
+ihlâs
+ihmal [A:InverseHarmony]
+ihraç
+ihram
+ihraz
+ihsan
+ihsas
+ihtar
+ihvan
+ihya
+ihzar
+ika
+ikame
+ikame [P:Adj]
+ikaz
+ikbal [A:InverseHarmony]
+ikdam
+ikiz [P:Adj]
+iklim
+ikmal [A:InverseHarmony]
+ikna
+ikon
+ikona
+ikrah
+ikram
+ikrar
+ikraz
+iksir
+ilâ [P:Conj]
+ilâç
+ilâh
+ilâhe
+ilâhî
+ilâm
+ilân
+ilâve
+ilbay
+ilca
+ilçe
+ile [P:Conj]
+ile [P:Postp,PCNom]
+ilenç
+ileri [A:ImplicitDative]
+ileri [P:Adj]
+ileri [P:Adv]
+ileti
+ilga
+ilgeç
+ilgi
+ilhak [A:NoVoicing]
+ilham
+ilhan
+ilik
+ilim [A:LastVowelDrop]
+ilk [P:Adj]
+ilkah
+ilke
+ilkel [P:Adj]
+ilkin [P:Adv]
+illâ [P:Adv]
+ille [P:Adv]
+illet [A:NoVoicing]
+illet [P:Adj]
+illî [P:Adj]
+ilmek
+ilmek [P:Noun]
+ilmî [P:Adj]
+ilmik
+ilzam
+ima
+imaj
+imal [A:InverseHarmony]
+imale
+imam
+imame
+iman
+imar
+imbat [A:NoVoicing]
+imbik
+imdat
+imdi [P:Adv]
+imece
+imge
+imha
+imik
+imkân
+imlâ
+imleç
+imlek
+imren
+imsak [A:InverseHarmony]
+imza
+inak
+inal
+inam
+inan
+inanç
+inat
+inat [P:Adj]
+ince [P:Adj]
+inci
+inci [P:Adj]
+incik
+incir
+inç
+indî
+indis
+ineç
+inek
+infak [A:NoVoicing]
+infaz
+ingin
+ingin [P:Adj]
+inha
+ini
+inik [P:Adj]
+inkâr
+inme
+inmek
+insaf
+insan
+insan [P:Adj]
+inşa
+inşat
+intaç
+intak [A:NoVoicing]
+intan
+inti
+inzal [A:InverseHarmony]
+ipek
+ipek [P:Adj]
+ipeka
+ipham
+ipil [P:Dup]
+ipka
+iplik
+ipnoz
+ipsiz [P:Adj]
+iptal [A:InverseHarmony]
+ipucu [A:CompoundP3sg; Roots:ip-uç]
+irade
+iradî
+irap
+irat
+irca
+irfan
+iri [P:Adj]
+irin
+iris
+iriş
+irite
+irmik
+ironi
+irs
+irsal [A:InverseHarmony]
+irsen [P:Adv]
+irsî [P:Adj]
+irşat
+isaf
+isal [A:InverseHarmony]
+isale
+ise [P:Adv]
+ishal [A:InverseHarmony]
+isim [A:LastVowelDrop]
+iskân
+islim
+ismen [P:Adv]
+ismet [A:NoVoicing]
+isnat
+isot
+ispat [A:NoVoicing]
+ispir
+ispit [A:NoVoicing]
+israf
+istek
+istem
+ister
+ister [P:Conj]
+istif
+istim
+istop [A:NoVoicing]
+isyan
+işar
+işarî
+işba
+işbu [P:Adj]
+işçi
+işgal [A:InverseHarmony]
+işkâl
+işkil
+işlek [P:Adj]
+işlem
+işlev
+işlik
+işmar
+işret [A:NoVoicing]
+iştah
+işte [P:Adv]
+işteş
+işve
+işyar
+ita
+itaat [A:InverseHarmony]
+itap
+iteği
+itfa
+ithaf
+ithal [A:InverseHarmony]
+itham
+iti
+itilâ
+itina
+itki
+itlâf
+itmam
+itmek
+ivaz
+ivedi [P:Adj]
+ivesi
+ivgi
+ivme
+ivmek
+iye
+iyi [P:Adj]
+iyon
+iyot
+izabe
+izaç
+izafe
+izafî [P:Adj]
+izah
+izale
+izam
+izan
+izaz
+izbe [P:Adj]
+izci
+izge
+izhar
+izin [A:LastVowelDrop]
+izlek
+izlem
+izole [P:Adj]
+izzet [A:NoVoicing]
+jakar
+jale
+janr
+jant
+jarse
+jarse [P:Adj]
+jel
+jeloz
+jest
+jet
+jeton
+jig
+jikle
+jile
+jilet [A:NoVoicing]
+jips
+joker
+joker [P:Adj]
+jokey
+jöle
+jön
+jön [P:Adj]
+judo
+jul [A:InverseHarmony]
+juro
+jüpon
+jüri
+jüt
+jüt [P:Adj]
+kaba
+kaba [P:Adj]
+kabak
+kabak [P:Adj]
+kaban
+kabız [A:LastVowelDrop]
+kabil [P:Adj]
+kabin
+kabir [A:LastVowelDrop]
+kabl
+kablo
+kabuk
+kabul [A:InverseHarmony]
+kâbus
+kabza
+kaç [P:Adj]
+kaçak
+kaçak [P:Adj]
+kaçar [P:Adj]
+kaçık
+kaçık [P:Adj]
+kaçta [P:Adv]
+kadar
+kadar [P:Postp,PCDat]
+kadar [P:Postp,PCNom]
+kadar [P:Postp,PCGen]
+kadeh
+kadem
+kader
+kadı
+kadın
+kadın [P:Adj]
+kadim [P:Adj]
+kadir [A:LastVowelDrop]
+kadir [Index:1]
+kadir [P:Adj]
+kadit
+kadit [P:Adj]
+kadro
+kadük [A:NoVoicing]
+kadük [P:Adj]
+kafa
+kafe
+kafes
+kâffe
+kâfi [P:Adj]
+kâfir
+kâfur
+kâfur [P:Adj]
+kâgir
+kâgir [P:Adj]
+kağan
+kâğıt
+kâğıt [P:Adj]
+kağnı
+kâh [P:Adv]
+kâh [P:Conj]
+kahır [A:LastVowelDrop]
+kâhil [P:Adj]
+kâhin
+kahir [P:Adj]
+kahpe [P:Adj]
+kahve
+kâhya
+kaide
+kail [P:Adj]
+kaim [P:Adj]
+kaime
+kâin [P:Adj]
+kaju
+kak
+kak [P:Adj]
+kaka
+kaka [P:Adj]
+kakaç
+kakao
+kakıç
+kakım
+kakır [P:Dup]
+kakma
+kakum
+kâkül
+kal
+kala
+kala [P:Postp,PCNom]
+kalak
+kalas
+kalay
+kalbî [P:Adj]
+kalça
+kale
+kalem
+kalfa
+kalıç
+kalım
+kalın [P:Adj]
+kalıp
+kalıt [A:NoVoicing]
+kalp [A:Voicing, InverseHarmony]
+kalp [A:Voicing; Index:1]
+kalp [P:Adj; A:NoVoicing]
+kalya
+kam
+kâm
+kama
+kamçı
+kamer
+kamet [A:NoVoicing]
+kamga
+kamış
+kamış [P:Adj]
+kâmil [P:Adj]
+kamp
+kamu
+kamu [P:Adj]
+kamus
+kan
+kana
+kanal
+kanat
+kanca
+kanı
+kanık [P:Adj]
+kanıt [A:NoVoicing]
+kani [P:Adj]
+kaniş
+kanka
+kano
+kanon
+kant
+kanto
+kânun
+kaos
+kap [A:Voicing]
+kâp [A:Voicing]
+kap [Index:1]
+kapak
+kapan
+kapı
+kapik
+kaput [A:NoVoicing]
+kaput [P:Adj]
+kapuz
+kar
+kâr
+kara
+kara [P:Adj]
+karar
+kare
+kare [P:Adj]
+karga
+kargı
+kargo
+karha
+karı
+karık
+karık [P:Adj]
+karın [A:LastVowelDrop]
+karış
+kari
+karma
+karma [P:Adj]
+karne
+karni
+karo
+karst
+karşı [A:ImplicitDative]
+karşı [P:Adj]
+karşı [P:Adv]
+karşı [P:Postp,PCDat]
+kart [A:NoVoicing]
+kart [P:Adj]
+karye
+kas
+kasa
+kasap [P:Adj]
+kâse
+kasem
+kaset [A:NoVoicing]
+kasık
+kasım
+kasır [A:LastVowelDrop]
+kasıt [A:LastVowelDrop]
+kasis
+kask
+kasko
+kasnı
+kast
+kastî
+kaş
+kaşan
+kaşar
+kaşe
+kaşık
+kâşif
+kat
+kat [A:InverseHarmony; Index:1]
+katar
+katı [P:Adj]
+katık
+katım
+katır
+katî
+katil [A:LastVowelDrop ; Index:1]
+katil [P:Adj]
+kâtip
+katkı
+katot
+katre
+katur [P:Dup]
+kav
+kavaf
+kavak
+kaval
+kavas
+kavat [A:NoVoicing]
+kavga
+kavi [P:Adj]
+kavi [P:Adv]
+kavil [A:LastVowelDrop]
+kavim [A:LastVowelDrop]
+kavis
+kavkı
+kavmî [P:Adj]
+kavuk
+kavun
+kavut
+kavuz
+kay [A:Doubling]
+kaya
+kayaç
+kayak
+kayan
+kayar
+kaygı
+kayık
+kayık [P:Adj]
+kayın
+kayın [A:LastVowelDrop; Index:1]
+kayın [P:Adj]
+kayıp [A:Voicing, LastVowelDrop]
+kayıp [P:Adj]
+kayır
+kayış
+kayıt [A:NoVoicing ; Index:1]
+kayıt [A:Voicing, LastVowelDrop]
+kayme
+kayra
+kayşa
+kaz
+kaza
+kazak
+kazak [P:Adj]
+kazan
+kazaz
+kazı
+kazık
+kazık [P:Adj]
+kazıl
+kazım
+kebap
+kebe
+kebir [P:Adj]
+kebze
+keçe
+keçe [P:Adj]
+keçi
+keder
+kedi
+kef
+kefal [A:InverseHarmony]
+kefe
+kefek
+kefen
+kefil
+kefir
+kefne
+kehle
+kek
+kekâ
+kekâh
+keke [P:Adj]
+kekeç [P:Adj]
+kekik
+kekre [P:Adj]
+kel [P:Adj]
+kelâm
+kele
+kelek
+kelem
+kelep
+keler
+keleş [P:Adj]
+kelik
+kelle
+kem [P:Adj]
+kemal [A:InverseHarmony]
+keman
+keme
+kemer
+kemer [P:Adj]
+kemha
+kemik
+kemik [P:Adj]
+kemre
+kenar
+kendi [P:Pron, Reflex]
+kene
+kenef
+kenef [P:Adj]
+kenet
+kent [A:NoVoicing]
+kep
+kepçe
+kepçe [P:Adj]
+kepek
+kepez
+kepir
+ker
+kerde
+kere
+kerem
+keres
+kerh
+kerih [P:Adj]
+kerim [P:Adj]
+keriz
+kerki
+kerte
+kerti
+kerti [P:Adj]
+kes
+kesat
+kese
+kese [P:Adj]
+kesek
+kesel
+keser
+kesi
+kesif [P:Adj]
+kesik
+kesik [P:Adj]
+kesim
+kesin [P:Adj]
+kesir [A:LastVowelDrop]
+kesit [A:NoVoicing]
+keski
+kesme
+kesme [P:Adj]
+kesp [A:Voicing]
+kesre
+keş [P:Adj]
+keşen
+keşif [A:LastVowelDrop]
+keşik
+keşiş
+ket
+ketal [A:InverseHarmony]
+kete
+keten
+keten [P:Adj]
+keton
+ketum [P:Adj]
+kevel
+keven
+keyfî [P:Adj]
+keyif [A:LastVowelDrop]
+kez
+keza [P:Adv]
+kıble
+kıç
+kıç [P:Adj]
+kıdem
+kıdım [P:Dup]
+kığ
+kığı
+kıh
+kıkır [P:Dup]
+kıl
+kıl [P:Adj]
+kılgı
+kılıç
+kılıf
+kılık
+kılır
+kılış
+kımıl
+kımız
+kın
+kına
+kıpı
+kıpık [P:Adj]
+kıpır [P:Dup]
+kır
+kır [P:Adj]
+kıraç [P:Adj]
+kıran
+kırat [A:NoVoicing]
+kıray [P:Adj]
+kırba
+kırcı
+kırç [A:Voicing]
+kırık [P:Adj]
+kırım
+kırın [P:Dup]
+kırkı
+kırma
+kırma [P:Adj]
+kırt [P:Dup]
+kıs [P:Dup]
+kısa [P:Adj]
+kısas
+kısık [P:Adj]
+kısım [A:LastVowelDrop]
+kısır
+kısır [P:Adj]
+kısış
+kısıt [A:NoVoicing]
+kıska
+kıskı
+kısmî [P:Adj]
+kıssa
+kış [P:Adv, Time]
+kış [P:Noun, Time]
+kışın [P:Adv]
+kışır [A:LastVowelDrop]
+kışla
+kıt [P:Adj]
+kıta
+kıtal [A:InverseHarmony]
+kıtık
+kıtır
+kıvam
+kıvıl
+kıvıl [P:Dup]
+kıvır [P:Dup]
+kıya
+kıyak
+kıyak [P:Adj]
+kıyam
+kıyas
+kıygı
+kıyı
+kıyık
+kıyım
+kıyın
+kıyma
+kıyye
+kız
+kızak
+kızan
+kızıl [P:Adj]
+kibar [P:Adj]
+kibir [A:LastVowelDrop]
+kifaf
+kik
+kiklâ
+kil
+kile
+kiler
+kilim
+kilit
+kiliz
+kilo
+kils
+kilüs
+kim [P:Conj]
+kim [P:Pron,Ques]
+kimi [P:Det]
+kimi [P:Pron, Quant]
+kimse
+kimse [P:Pron, Quant]
+kimüs
+kimya
+kin
+kinik [P:Adj]
+kinin
+kiniş
+kip
+kip [P:Adj]
+kipe
+kir
+kira
+kiraz
+kirde
+kireç
+kirik
+kiriş
+kirpi
+kirş
+kirve
+kispî
+kist [A:NoVoicing]
+kisve
+kişi
+kit
+kitap
+kitin
+kitle
+kitre
+kivi
+kizir
+klân
+klâpa
+klâpe
+klâs
+klik [A:Voicing]
+klima
+klip [A:Voicing]
+klips
+klişe
+klişe [P:Adj]
+klon
+klor
+kloş [P:Adj]
+klüz
+koala
+kobay
+kobra
+koca
+koca [P:Adj]
+koç
+koçak [P:Adj]
+koçan
+koçu
+kod
+kodes
+kodoş
+kof [P:Adj]
+kofa
+kofra
+kofti
+koful
+koğuş
+kok
+koka
+kokak [P:Adj]
+koket [A:NoVoicing]
+koket [P:Adj]
+kokoş [P:Adj]
+kokot [A:NoVoicing]
+kokoz [P:Adj]
+koku
+kol
+kola
+kolâj
+kolan
+kolay [P:Adj]
+kolej
+koli
+kolik
+kolit [A:NoVoicing]
+kolon
+kolpo
+kolye
+kolza
+kom
+koma
+komar
+kombi
+komi
+komik [P:Adj]
+komot [A:NoVoicing]
+komşu
+komşu [P:Adj]
+komut [A:NoVoicing]
+komün
+konak
+konç [A:Voicing]
+kondu
+koni
+koni [P:Adj]
+konik
+konik [P:Adj]
+konje
+konsa
+kont
+konu
+konuk
+konum
+konur [P:Adj]
+konut [A:NoVoicing]
+kopal
+kopça
+kopek
+kopil
+kopoy
+kopuk [P:Adj]
+kopuz
+kopya
+kopya [P:Adj]
+kor
+kor [P:Adj]
+kora
+koral [A:InverseHarmony]
+koral [P:Adj]
+korku
+korna
+korno
+koro
+korse
+kort
+korte
+koru
+koruk
+koruk [P:Adj]
+korun
+korza
+kosa
+koşa [P:Adj]
+koşa [P:Adv]
+koşaç
+koşam
+koşin
+koşu
+koşuk
+koşul
+koşum
+koşun
+koşut [P:Adj;A:NoVoicing]
+kot
+kot [P:Adj]
+kota
+kotan
+koton [P:Adj]
+kotra
+kov
+kova
+kovan
+kovuk
+koy
+koyak
+koyar
+koyu [P:Adj]
+koyun
+koyun [A:LastVowelDrop ; Index:1]
+koyut [A:NoVoicing]
+koz
+koza
+kozak
+köçek
+köfte
+köhne [P:Adj]
+kök
+köken
+köle
+kömbe
+kömeç
+kömür
+kömüş
+köpek
+köprü
+köpük
+kör [P:Adj]
+köre
+körpe [P:Adj]
+körük
+kös
+köse [P:Adj]
+kösem
+kösnü
+köşe
+köşek
+köşk
+kötek
+kötü [P:Adj]
+köy
+köz
+kral [P:Adj]
+kramp [A:NoVoicing]
+krank
+kravl
+kredi
+krem
+krem [P:Adj]
+krema
+krep
+kreş
+kriko
+kriz
+kroki
+krom
+krom [P:Adj]
+kron
+kros
+kroşe
+kubat [P:Adj; A:NoVoicing]
+kubbe
+kubur
+kucak
+kudas
+kuduz
+kuduz [P:Adj]
+kudüm
+kûfî
+kuğu
+kûhi [P:Adj]
+kuka
+kuka [P:Adj]
+kukla
+kul
+kula
+kula [P:Adj]
+kulaç
+kulak
+kule
+kulis
+kulp
+kulun
+kulüp
+kum
+kuma
+kumar
+kumaş
+kumaş [P:Adj]
+kumla
+kumru
+kumuç
+kumul
+kunda
+kunt [P:Adj]
+kup
+kupa
+kupes
+kuple
+kupon
+kupür
+kur
+kura
+kurak [P:Adj]
+kural
+kuram
+kurca
+kurgu
+kurk
+kurna
+kuron
+kurs
+kurt [A:Voicing]
+kurt [P:Adj]
+kuru [P:Adj]
+kurul
+kurum
+kuruş
+kurut
+kurya
+kurye
+kusur
+kuş
+kuşak
+kuşe
+kuşet [A:NoVoicing]
+kuşku
+kut
+kutan
+kutlu [P:Adj]
+kutnu
+kutsî
+kutu
+kutup [A:Voicing, LastVowelDrop]
+kutur [A:LastVowelDrop]
+kuver
+kuvöz
+kuvve
+kuytu [P:Adj]
+kuyu
+kuyum
+kuyut [P:Dup]
+kuz [P:Adj]
+kuzen
+kuzey [P:Adj]
+kuzin
+kuzu
+kübik [P:Adj]
+küçük [P:Adj]
+küf
+küfe
+küfür [A:LastVowelDrop]
+kükre [P:Adj]
+kül
+külâh
+külçe [P:Adj]
+külek
+küllî
+külot [A:NoVoicing]
+kült
+külte
+küme
+kümes
+küncü
+künde
+künh
+künk
+künye
+küp
+küpe
+kür
+kür [P:Adj]
+kürar
+kürdî
+küre
+kürek
+kürit [A:NoVoicing]
+kürk
+kürk [P:Adj]
+kürsü
+küs [P:Adj]
+küskü
+küspe
+küsuf
+küsur
+küsü
+küşat [P:Adj]
+küşne
+küşüm
+küt [P:Adj]
+kütin
+kütle
+kütük
+kütür [P:Dup]
+küvet [A:NoVoicing]
+laçın
+laçka [P:Adj]
+laden
+lades
+ladin
+laf
+lafız [A:LastVowelDrop]
+lafzî
+lagar [P:Adj]
+lagos
+lagün
+lağım
+lağıv [A:LastVowelDrop]
+lahit [A:Voicing, LastVowelDrop]
+lahos
+lahut
+lahut [P:Adj]
+lahza
+laik [P:Adj]
+lain [P:Adj]
+lak
+laka
+lakap
+lake [P:Adj]
+lakin [P:Conj]
+lakoz
+lal [A:InverseHarmony]
+lal [P:Adj]
+lala
+lale
+lam
+lâm
+lama
+lamba
+lame
+lame [P:Adj]
+lamel
+lan [P:Interj]
+lando
+lanet [A:NoVoicing]
+lanet [P:Adj]
+lanoz
+lanse [P:Adj]
+lapa
+largo
+largo [P:Adv]
+larp [P:Adv]
+larva
+laski [P:Adj]
+laso
+lasta
+laşe
+lata
+latif [P:Adj]
+lav
+lava [P:Interj]
+lavaj
+lavaş
+lavta
+lavuk [P:Adj]
+layık [P:Adj]
+laza
+lazer
+lazım [P:Adj]
+lazut [A:NoVoicing]
+leb
+leçe
+leçek
+ledün [A:Doubling]
+lef [A:Doubling]
+legal [A:InverseHarmony]
+legal [P:Adj]
+leğen
+leh
+lehçe
+lehim
+leke
+lemis [A:LastVowelDrop]
+lenf
+lenfa
+lens
+lento
+lento [P:Adv]
+lep
+lepra
+lerze
+leş
+leş [P:Adj]
+leva
+levha
+levye
+ley
+leylî
+lezar
+leziz [P:Adj]
+lığ
+libas
+liboş
+libre
+lider [P:Adj]
+liet
+lif
+lift
+lig
+liga
+light [P:Adj]
+lika
+liken
+likit [P:Adj]
+likör
+lim
+liman
+limbo
+limit [A:NoVoicing]
+limon
+linç [A:Voicing]
+linet [A:NoVoicing]
+linin
+link [A:NoVoicing]
+lipit
+lipom
+lir
+lira
+liret [A:NoVoicing]
+lirik
+lirik [P:Adj]
+lisan
+lise
+liste
+litre
+liva
+livar
+lizol
+lizöz
+lobi
+lobut [A:NoVoicing]
+loca
+loça
+loda
+lodos
+logo
+logos
+loğ
+lojik
+lojik [P:Adj]
+lok
+lokal [A:InverseHarmony]
+lokal [P:Adj]
+lokma
+lokum
+lolo
+lonca
+longa
+lop
+lop [P:Adj]
+lopur
+lor
+lort [A:Voicing]
+lorta
+loş [P:Adj]
+lot
+lota
+lotus
+lök [P:Adj]
+lökoz
+löp [P:Adj]
+löpür [P:Dup]
+lös
+lup
+lûtî [Ref:luti]
+lûtr [Ref:lutr]
+lûtr [P:Adj; Ref:lutr_Adj]
+lüfer
+lügat [A:InverseHarmony]
+lügol
+lüks
+lüks [P:Adj]
+lüle
+lümen
+lünet
+lüp
+lütuf [A:LastVowelDrop]
+lüzum
+maada [P:Adv]
+maaş
+mabat
+mabet
+mabut
+macun
+maç
+maça
+maço
+madam
+madde
+maddî [P:Adj]
+madem [P:Conj]
+maden
+maden [P:Adj]
+mader
+madik
+madun
+mafiş
+mafya
+magma
+magri
+mah
+mahal [P:Noun; A:Doubling, InverseHarmony]
+mahfe
+mahfi [P:Adj]
+mahıv [A:LastVowelDrop]
+mahir [P:Adj]
+mahna
+mahra
+mahur
+mahut [A:NoVoicing]
+mahut [P:Adj]
+mahya
+maî
+mail [P:Adj]
+maile
+main
+majör
+majör [P:Adj]
+maka [P:Dup]
+makak
+makam
+makas
+makat
+maket [A:NoVoicing]
+maki
+makro [P:Adj]
+maksi
+maksi [P:Adj]
+makta
+maktu [P:Adj]
+makul [P:Adj; A:InverseHarmony]
+makûs [P:Adj]
+mal
+mala
+malak
+malaz
+malç
+malen [P:Adv]
+malî [P:Adj]
+malik [A:NoVoicing]
+malt
+malul [A:InverseHarmony]
+malul [P:Adj]
+malum [P:Adj]
+malya
+mama
+mambo
+mamul [A:InverseHarmony]
+mamul [P:Adj]
+mamur [P:Adj]
+mamut [A:NoVoicing]
+mana
+manas
+manat
+manca
+manda
+manej
+manen [P:Adv]
+manga
+mango
+mani
+mâni
+mânia
+mantı
+manti
+manto
+manya
+mapa
+mapus
+maral
+maraz
+marda
+mariz [P:Adj]
+marj
+mark
+marka
+marke [P:Adj]
+marki
+marn
+maron [P:Adj]
+mars
+marş
+mart
+martı
+maruf [P:Adj]
+marul
+maruz [P:Adj]
+marya
+mas [A:Doubling]
+masa
+masaj
+masal
+masat
+masif [P:Adj]
+mask
+maske
+masnu [P:Adj]
+mason
+masör
+masöz
+mastı
+masum [P:Adj]
+masun [P:Adj]
+maş
+maşa
+maşer
+maşuk [P:Adj]
+mat [P:Adj]
+matah [P:Adj]
+matbu [P:Adj]
+matem
+matiz
+matiz [P:Adj]
+matla
+matuf [P:Adj]
+matuh [P:Adj]
+maun
+maun [P:Adj]
+maval
+mavi [P:Adj]
+maviş [P:Adj]
+mavna
+mavra
+maya
+mayın
+mayıs
+mayi
+mayna
+mayo
+mazak
+mazı
+mazi
+mazi [P:Adj]
+mazot [A:NoVoicing]
+mazur [P:Adj]
+meal [A:InverseHarmony]
+mebde
+mebiz
+mebni [P:Adj]
+mebni [P:Adv]
+mebus
+mecal [A:InverseHarmony]
+mecaz [P:Adj]
+mecmu [P:Adj]
+mecra
+meç
+medar
+medet
+medih
+medüz
+medya
+meful [A:InverseHarmony]
+meful [P:Adj]
+mega
+meğer [P:Conj]
+mehaz
+mehdî
+mehel
+mehil
+mehle
+mekân
+meke
+mekik
+mel [P:Dup]
+melal [A:InverseHarmony]
+melâs
+melek
+meles
+meleş
+melez [P:Adj]
+melik
+melon [P:Adj]
+melul [P:Adj]
+melun [P:Adj]
+melül
+memat [A:NoVoicing]
+memba
+meme
+memnu [P:Adj]
+memul [A:InverseHarmony]
+memul [P:Adj]
+memur [P:Adj]
+men
+menfa
+menfi [P:Adj]
+meni
+menşe
+menus [P:Adj]
+menü
+mera
+merak [A:NoVoicing]
+meral [A:InverseHarmony]
+meram
+merci
+merek
+meres
+meret [P:Adj]
+meri [P:Adj]
+mermi
+mert [P:Adj]
+mesai
+mesaj
+mesel
+mesen
+meses
+mesh
+mesmu [P:Adj]
+mest
+mest [P:Adj]
+mesul [A:InverseHarmony]
+mesul [P:Adj]
+mesut [P:Adj]
+meşbu [P:Adj]
+meşe
+meşe [P:Adj]
+meşin
+meşin [P:Adj]
+meşk
+meşru [P:Adj]
+meşum [P:Adj]
+met [P:Noun; A:Voicing, Doubling]
+meta
+metal [A:InverseHarmony]
+metal [P:Adj]
+metan
+metbu [P:Adj]
+metil
+metin [A:LastVowelDrop]
+metîn [P:Adj]
+metis [P:Adj]
+metot
+metre
+metro
+mevdu [P:Adj]
+mevki
+mevlâ
+mevt
+mevta
+mevut [A:NoVoicing]
+mevut [P:Adj]
+mevzi
+mevzu
+mey
+meyal [P:Dup]
+meyan
+meyil [A:LastVowelDrop]
+meyus [P:Adj]
+meyve
+mezar
+mezat
+meze
+mezon
+mezra
+mezru [P:Adj]
+mezun [P:Adj]
+mezür
+mezzo [P:Adv]
+mıcır
+mıgri
+mıh
+mık [P:Dup]
+mır [P:Dup]
+mırıl [P:Dup]
+mırın [P:Dup]
+mırra
+mısır
+mısra
+mışıl [P:Dup]
+miat
+miçel
+miço
+mide
+midi [P:Adj]
+midye
+mihr
+mika
+mika [P:Adj]
+mikâp
+mikoz
+mikro [P:Adj]
+mil
+milât
+milel
+milim
+milim [P:Adv]
+milis
+millî [P:Adj]
+mim
+mimar
+mimik
+mine
+mini [P:Adj]
+minik [P:Adj; A:Voicing]
+mink
+minör [P:Adj]
+mir
+mira
+miraç
+miras
+mirat
+mirî [P:Adj]
+mirim
+mirza
+mis
+misak [A:NoVoicing]
+misal [A:InverseHarmony]
+misel
+misil [A:LastVowelDrop]
+misis
+misk
+miso
+mit
+mitil
+mitos
+mitoz
+miyar
+miyav
+miyaz
+miyom
+miyop [P:Adj]
+miza
+mizaç
+mizah
+mizan
+mobil
+mobil [P:Adj]
+moda
+moda [P:Adj]
+model
+modem
+modül
+moher
+moher [P:Adj]
+moka
+mola
+molas
+molla
+moloz
+monat
+mont
+monte
+mopet
+mor [P:Adj]
+moral [A:InverseHarmony]
+moren
+morg
+mors
+morto
+moruk [P:Adj]
+motel
+motif
+motor
+mouse
+mozak
+möble
+mönü
+mösyö
+muaf [P:Adj]
+muare
+muare [P:Adj]
+mubah
+mucip [P:Adj]
+mucir
+mucit [P:Adj]
+mucuk
+mucur
+muço
+mudi
+mudil
+mufla
+muhal [A:InverseHarmony]
+muhal [P:Adj]
+muhat [P:Adj; A:NoVoicing]
+muhik [P:Adj]
+muhik [P:Noun; A:Doubling, InverseHarmony]
+muhil [A:Doubling]
+muhil [P:Adj]
+muhip [P:Adj]
+muhip [P:Noun; A:Voicing, Doubling]
+muhit [A:NoVoicing]
+muin
+muit
+mujik
+mukim [P:Adj]
+mukni [P:Adj]
+mukus
+mulâj
+mum
+mumya
+munis [P:Adj]
+murat
+murç [A:Voicing]
+muris [P:Adj]
+murt
+musap [P:Adj]
+musır [A:Doubling]
+musır [P:Adj]
+muska
+muson
+muş
+muşta
+muştu
+muta
+mutaf
+mutat [P:Adj; A:NoVoicing]
+muti [P:Adj]
+mutlu [P:Adj]
+muylu
+muz
+muzır [P:Adj]
+muzip [P:Adj]
+muzur [P:Adj]
+mübah [P:Adj]
+müdür
+müfit [P:Adj]
+müft [P:Adj]
+müftü
+müge
+mühim [P:Adj]
+mühre
+mühür [A:LastVowelDrop]
+müjde
+mülga [P:Adj]
+mülk
+mülkî [P:Adj]
+mümas [P:Adj]
+mümin [P:Adj]
+münşi [P:Adj]
+mürai [P:Adj]
+mürit
+mürt [P:Adj]
+mürur
+müşir [P:Adj]
+müta
+müze
+müziç [P:Adj]
+müzik
+naaş
+naat [A:NoVoicing]
+nabız [A:LastVowelDrop]
+nacak
+naçar [P:Adj]
+naçiz [P:Adj]
+nadan [P:Adj]
+nadas
+nadim [P:Adj]
+nadir [P:Adj]
+nafıa
+nafi [P:Adj]
+nafiz [P:Adj]
+nafta
+nağme
+nah [P:Interj]
+nahak [A:NoVoicing]
+nahak [P:Adj]
+nahır
+nahif [P:Adj]
+nahiv [A:LastVowelDrop]
+nahoş [P:Adj]
+naif [P:Adj]
+nail [P:Adj]
+naip
+nakdî [P:Adj]
+nakıs [P:Adj]
+nakıs [P:Adv]
+nakış [A:LastVowelDrop]
+nakız [A:LastVowelDrop]
+nakil [A:LastVowelDrop]
+nâkil [P:Adj]
+nakip
+nakit [A:Voicing, LastVowelDrop]
+naklî [P:Adj]
+nal
+nalan [P:Adj]
+nalça
+nale
+nalın
+nam
+namaz
+name
+namlu
+namus
+nan
+nanay
+nane
+nanik
+nar
+nâr
+nara
+narh
+narin [P:Adj]
+nas [A:Doubling]
+nasıl [P:Adj]
+nasıl [P:Adv]
+nasıp [A:Voicing, LastVowelDrop]
+nasır
+nasip
+nasir
+naşi [P:Adv]
+naşir [P:Adj]
+natır
+nato [P:Adj]
+natuk [P:Adj]
+natür
+naz
+nazal [P:Adj]
+nazar
+nâzım
+nazım [A:LastVowelDrop]
+nâzım [P:Adj]
+nazır
+nazır [P:Adj]
+nazik [P:Adj]
+nazil [P:Adj]
+nazir [P:Adj]
+nebat [A:NoVoicing]
+nebi
+nebze
+necat [A:NoVoicing]
+neci
+necip [P:Adj]
+nedbe
+neden
+neden [P:Adv]
+nedim
+nefer
+nefes
+nefha
+nefir
+nefis [A:LastVowelDrop]
+nefis [P:Adj]
+nefiy [A:LastVowelDrop]
+neft
+neftî [P:Adj]
+nehir [A:LastVowelDrop]
+nehiy [A:LastVowelDrop]
+nekes [P:Adj]
+nekre [P:Adj]
+neler
+nem
+nema
+nemf
+nene
+neon
+nere [P:Pron,Ques]
+nesep
+nesiç [A:Voicing, LastVowelDrop]
+nesih
+nesil [A:LastVowelDrop]
+nesim
+nesir [A:LastVowelDrop]
+nesne
+neşe
+neşet [A:NoVoicing]
+neşir [A:LastVowelDrop]
+net [P:Adj]
+nev
+neva
+nevi
+nevir [A:LastVowelDrop]
+ney
+neyçe
+neyse [P:Adv]
+neyse [P:Conj]
+nezif [A:LastVowelDrop]
+nezih [P:Adj]
+nezir [A:LastVowelDrop]
+nezle
+nısıf [A:LastVowelDrop]
+nice [P:Adj]
+nicel [P:Adj]
+niçin [P:Adv]
+nida
+nifak [A:NoVoicing]
+nihaî [P:Adj]
+nihan [P:Adj]
+nikâh
+nikap
+nikel
+nim [P:Adj]
+nimet [A:NoVoicing]
+nine
+ninni
+nipel
+nisa
+nisaî [P:Adj]
+nisan
+nisap
+nispî [P:Adj]
+niş
+nişan
+nite [P:Adv]
+nitel [P:Adj]
+niyaz
+niye [P:Adv]
+niyet [A:NoVoicing]
+niza
+nizam
+nodul
+nodül
+nohut
+nokra
+nokta
+nom
+nonoş
+norm
+not
+nota
+notam
+noter
+nova
+nöbet [A:NoVoicing]
+nöron
+nötr [P:Adj]
+nukut
+numen
+nur
+nutuk [A:LastVowelDrop,NoVoicing]
+nüans
+nüfus
+nüfuz
+nüks
+nükte
+nükûl
+nükul [A:InverseHarmony]
+nüsha
+nüsha [P:Adj]
+nüve
+nüzul [A:InverseHarmony]
+oba
+oberj
+obez [P:Adj]
+obje
+obruk
+obruk [P:Adj]
+obua
+obur [P:Adj]
+obüs
+ocak
+oda
+odak
+odeon
+odun
+ofans [P:Adj]
+ofis
+oflaz [P:Adj]
+ofris
+ofset [A:NoVoicing]
+oğlak
+oğlan
+oğul [A:LastVowelDrop]
+oğuz [P:Adj]
+oha [P:Interj]
+ohm
+oje
+ojit [A:NoVoicing]
+okapi
+okar
+okey
+okka
+oksit
+oktan
+oktav
+okul
+okume
+okur
+okus [P:Dup]
+olası [P:Adj]
+olay
+olçum
+ole [P:Interj]
+oleik
+olein
+oley [P:Interj]
+olgu
+olgun [P:Adj]
+olmak [A:Aorist_I]
+olta
+oluk
+olur [P:Adj]
+oma
+ombra
+omça
+omlet [A:NoVoicing]
+omur
+omuz [A:LastVowelDrop]
+onat [P:Adj; A:NoVoicing]
+onay
+onca [P:Adj]
+onca [P:Adv]
+ongen
+ongun [P:Adj]
+oniks
+onmak
+ons
+onum
+onur
+oosit
+opak [P:Adj]
+opal [A:InverseHarmony]
+opera
+optik
+optik [P:Adj]
+opus
+ora
+orak
+oral [P:Adj]
+oral [P:Adv]
+oran
+ordu
+orfoz
+org
+organ
+orkit
+orlon
+orlon [P:Adj]
+orman
+orsa
+orta
+orta [P:Adj]
+ortaç
+ortak
+ortak [P:Adj]
+ortam
+ortay [P:Adj]
+ortez
+ortoz
+oruç
+orun
+orya
+otacı
+otağ
+otçul [P:Adj]
+otel
+otist
+otizm
+otlak
+oto
+otsul [P:Adj]
+ova
+oval [A:InverseHarmony]
+oval [P:Adj]
+ovmaç
+ovmak
+oya
+oydaş
+oyluk
+oylum
+oylum [P:Adj]
+oymak
+oymak [P:Noun]
+oynak [P:Adj]
+oynaş
+oysa [P:Conj]
+oyuk
+oyum
+oyun
+ozan
+ozmos
+ozon
+ozuga
+öbek
+öbür [P:Adj]
+öbür [P:Pron,Quant]
+öcü
+ödem
+ödev
+ödlek [P:Adj]
+ödül
+ödün
+ödünç [P:Adj]
+öfke
+öge
+öğle
+öğlen [P:Noun, Time]
+öğrek
+öğün
+öğür
+öğür [P:Adj]
+öğüt
+öhö [P:Interj]
+ökçe
+öke
+ökse
+öksüz [P:Adj]
+öküz
+ölçek
+ölçer
+ölçü
+ölçüm
+ölçün [P:Adj]
+ölçüt [A:NoVoicing]
+ölet [A:NoVoicing]
+ölgün [P:Adj]
+ölmek [A:Aorist_I]
+ölü [P:Adj]
+ölüm
+ömür [A:LastVowelDrop]
+önce [P:Adv]
+önce [P:Noun, Time]
+önce [P:Postp,PCAbl]
+öncel
+öncü
+öncül [P:Adj]
+önder
+önel
+önem
+öneri
+öneze
+önlem
+önlük
+öpmek [A:Reciprocal]
+örcin
+ördek
+örek
+öreke
+ören
+örf
+örfî [P:Adj]
+örge
+örgen
+örgü
+örgü [P:Adj]
+örgün [P:Adj]
+örgüt [A:NoVoicing]
+örk
+örmek
+örnek
+örnek [P:Adj]
+örs
+örtü
+örtük [P:Adj]
+örü
+örük
+örüm
+öşür [A:LastVowelDrop]
+öte [A:ImplicitDative]
+öte [P:Postp,PCAbl]
+öteki [P:Adj]
+öteki [P:Pron]
+ötmek
+ötre
+ötürü [P:Postp,PCAbl]
+öveç
+övgü
+övmek
+övünç
+öykü
+öyle [P:Adj]
+öyle [P:Adv]
+özdek
+özden
+özden [P:Adj]
+özdeş [P:Adj]
+öze
+özek
+özel [P:Adj]
+özen
+özenç
+özeni
+özerk [A:NoVoicing]
+özerk [P:Adj]
+özet [A:NoVoicing]
+özge [P:Adj]
+özgü [P:Adj]
+özgül [P:Adj]
+özgün [P:Adj]
+özgür [P:Adj]
+özlem
+özne
+öznel [P:Adj]
+özür [A:LastVowelDrop]
+özüt [A:NoVoicing]
+pabuç
+paça
+paçal
+paçoz
+padok
+pafta
+pagan [P:Adj]
+pah
+paha
+pahal [P:Adj]
+pak [P:Adj]
+paket [A:NoVoicing]
+paket [P:Adj]
+pakt
+pal
+pala
+palan
+palas
+palas [P:Adj]
+palaz
+palet [A:NoVoicing]
+palto
+pampa
+pamuk
+pamuk [P:Adj]
+panda
+panel
+panik
+pano
+papa
+papak
+papaz
+papel
+para
+paraf
+parça
+pare
+parıl [P:Dup]
+park [A:NoVoicing]
+parka
+parke
+parpa
+pars
+parsa
+parti
+parya
+pas
+pasaj
+pasak
+pasif [P:Adj]
+paso
+pasör
+pasta
+paşa [P:Adj]
+pat
+pat [P:Dup]
+pata
+patak
+paten
+patır [P:Dup]
+pati
+patik
+patis
+patoz
+pay
+payam
+payan
+payda
+paye
+payen [P:Adj]
+payet [A:NoVoicing]
+pazar
+pazen
+pazı
+peç
+peçe
+peçiç
+pedal
+peder
+pek [P:Adj]
+pek [P:Adv]
+peki [P:Adv]
+pelin
+pelit
+pelte
+pelür
+pelüş
+pembe [P:Adj]
+pena
+pençe
+penes
+pengö
+peni
+penis
+pens
+pense
+penye
+penye [P:Adj]
+pepe [P:Adj]
+per
+perde
+peren
+peri
+perki
+perma
+permi
+peron
+pert
+peruk
+perva
+pes [P:Adj]
+pes [P:Interj]
+pesek
+peso
+pest [P:Adj]
+pesüs
+peş
+peşin [P:Adj]
+peşin [P:Adv]
+petek
+pey
+peyda [P:Adj]
+peyk
+peyke
+pezo
+pıhtı
+pılı [P:Dup]
+pınar
+pırıl [P:Dup]
+pırpı
+pırtı
+pışt
+pıt
+pıtı [P:Dup]
+pıtır [P:Dup]
+piç
+pide
+pik
+pikaj
+pikap
+pike
+pike [P:Adj]
+piket [A:NoVoicing]
+piko
+pil
+pilâv
+piliç
+pilot [A:NoVoicing]
+pilot [P:Adj]
+pim
+pinel
+pines
+pinti [P:Adj]
+pipet [A:NoVoicing]
+pipi
+pipo
+pir
+pir [P:Adv]
+pire
+pirit [A:NoVoicing]
+pis [P:Adj]
+pisi
+pisik
+pisin
+pist [A:NoVoicing]
+pist [P:Interj]
+pişek [P:Adj]
+pişi
+pişik
+pişim
+pişim [P:Adj]
+pişti
+piti [P:Dup]
+piton
+piyan
+piyaz
+piyes
+piyon
+pizza
+plaj
+plak [A:Voicing]
+plaka
+plan
+plase
+plato
+plaza
+pli
+plise
+pof
+pofur [P:Dup]
+pog [P:Adj]
+poker
+pokus [P:Dup]
+polar
+polat
+polen
+polim
+polip
+polis
+polka
+polo
+pomat
+pompa
+ponje
+ponza
+pop [P:Adj]
+popo
+porno
+porno [P:Adj]
+porte
+porto
+pos [P:Adj]
+posa
+post
+posta
+poşet [A:NoVoicing]
+poşu
+pot
+pota
+potas
+potin
+potuk
+potuk [P:Adj]
+potur
+potur [P:Adj]
+pound
+poy
+poyra
+poz
+pöç
+pöçük
+pöf [P:Interj]
+prafa
+prens
+pres
+prese [P:Adj]
+prim
+print
+priz
+proje
+prova
+pruva
+puan
+pudra
+puf
+puhu
+pul
+puluç [P:Adj]
+puma
+pumba [P:Adj]
+punç [A:Voicing]
+punt [A:Voicing]
+punto
+pupa
+puro
+pus
+pusat [A:NoVoicing]
+puset [A:NoVoicing]
+pusu
+puşt [P:Adj]
+put
+püf
+püfür [P:Dup]
+pünez
+pür
+pür [P:Adj]
+püre
+püren
+pürüz
+püs [P:Dup]
+püskü
+püsür [P:Adj]
+pütür
+rabıt [A:Voicing, LastVowelDrop]
+raca
+raci [P:Adj]
+racon
+radar
+radde
+radon
+radyo
+raf
+rafit
+rafya
+rafya [P:Adj]
+ragbi
+rağm
+rahat [P:Adj; A:NoVoicing]
+rahim [A:LastVowelDrop]
+rahîm [P:Adj]
+rahîm [P:Adv]
+rahip
+rahle
+rahne
+raht
+rakam
+raket [A:NoVoicing]
+rakı
+rakım
+rakik [A:InverseHarmony]
+rakik [P:Adj]
+rakip
+rakit [P:Adj]
+rakor
+raks
+ralli
+ram [P:Adj]
+ramak [P:Noun; A:NoVoicing]
+rami
+ramp
+rampa
+randa
+rant
+ranza
+rap
+rapor
+rasat
+rasıt
+raspa
+rast
+rast [P:Adj]
+rasyo
+raşe
+raşi
+rate
+rate [P:Adj]
+ratıp [P:Adj]
+raunt
+ray
+rayba
+rayiç
+razı [P:Adj]
+reaya
+rebap
+recep
+recim [A:LastVowelDrop]
+reçel
+redif
+reel [P:Adj]
+refah
+refik [A:NoVoicing]
+refüj
+reha
+rehin
+reis
+reji
+rejim
+rekât [A:NoVoicing]
+rekiz
+rekor
+remel
+remi
+remil [A:LastVowelDrop]
+remiz [A:LastVowelDrop]
+rende
+renk
+repo
+resen [P:Adv]
+resif
+resim [A:LastVowelDrop]
+resmî [P:Adj]
+rest
+resul [A:InverseHarmony]
+reşit [P:Adj]
+reşme
+ret [A:Voicing, Doubling]
+reva [P:Adj]
+revaç [P:Adj]
+revak
+revan [P:Adj]
+revir
+reviş
+revü
+rey
+reybî [P:Adj]
+reye [P:Adj]
+reyon
+reze
+rezil [P:Adj]
+rıh
+rıza
+rızık
+rızk
+rica
+rical [A:InverseHarmony]
+ricat [A:NoVoicing, InverseHarmony]
+rijit [P:Adj]
+rika
+rimel
+rina
+ring
+ringa
+rint [A:Voicing]
+risk
+ritim
+ritm
+riya
+riyal [A:InverseHarmony]
+roba
+robot [A:NoVoicing]
+roda
+rodaj
+rodeo
+roka
+roket [A:NoVoicing]
+rol [A:InverseHarmony]
+rom
+roman
+rop [A:Voicing]
+rosto
+rot
+rota
+rotil
+rotor
+roza
+roza [P:Adj]
+roze
+rozet [A:NoVoicing]
+röfle
+rögar
+röle
+rötar
+rötuş
+ruam
+ruba
+rubaî
+ruble
+rubu
+ruf
+rugan
+rugan [P:Adj]
+rugbi
+ruh
+ruhen [P:Adv]
+ruhî [P:Adj]
+ruj
+rulet [A:NoVoicing]
+rulo
+rulo [P:Adj]
+rumba
+rumuz
+run
+runik [P:Adj]
+rupi
+rutin [P:Adj]
+ruz
+rübap
+rücu
+rüesa
+rükû
+rükün [A:LastVowelDrop]
+rüküş [P:Adj]
+rüsum
+rüsup
+rüsva [P:Adj]
+rüşt [A:Voicing]
+rütbe
+rüya
+rüyet [A:NoVoicing]
+saat [A:InverseHarmony, NoVoicing]
+saba
+sabah [P:Adv]
+sabah [P:Noun, Time]
+saban
+sabık [P:Adj]
+sabır [A:LastVowelDrop]
+sabi [P:Adj]
+sabit [A:NoVoicing]
+sabit [P:Adj]
+sabo
+sabuh
+sabun
+sabur [P:Adj]
+sac
+sac [P:Adj]
+saç
+saçak
+saçık [P:Adj]
+saçma [P:Adj]
+sada
+sadak
+sade [P:Adj]
+sadet
+sadık [P:Adj]
+sadır [A:LastVowelDrop]
+sâdır [P:Adj]
+sadik [P:Adj]
+saf [P:Adj]
+safa
+safer
+safha
+safi [P:Adj]
+safi [P:Adv]
+safir
+safra
+sagar
+sagu
+sağ [P:Adj]
+sağı
+sağım
+sağın [P:Adj]
+sağır [P:Adj]
+sağrı
+sağu
+sah [A:Doubling]
+saha
+sahaf
+sahan
+sahi [P:Adv]
+sahih [P:Adj]
+sahil
+sahip
+sahn
+sahne
+sahra
+sahre
+sahte [P:Adj]
+sahur
+saik [A:NoVoicing]
+saika
+sair [P:Adj]
+sak [P:Adj]
+saka
+sakaf
+sakak
+sakal
+sakar
+sakar [P:Adj]
+sakat [A:NoVoicing]
+sakat [P:Adj]
+sake
+sakın [P:Interj]
+sakır [P:Dup]
+sakıt [P:Adj; A:NoVoicing]
+sakız
+saki
+sakil
+sakil [P:Adj]
+sakim [P:Adj]
+sakin [P:Adj]
+sakit [P:Adj]
+saklı [P:Adj]
+sako
+saksı
+sal
+salâ
+salâh
+salak [P:Adj]
+salam
+salaş [P:Adj]
+salât [A:NoVoicing]
+salça
+salep
+salgı
+salı
+salım
+salık
+salim [P:Adj]
+salip
+salon
+saloz [P:Adj]
+salpa [P:Adj]
+salsa
+salt [P:Adj]
+salta
+salto
+salvo
+salya
+sam
+saman
+samba
+samsa
+samur
+samur [P:Adj]
+samut [P:Adj]
+san
+sanal [P:Adj]
+sanat [A:NoVoicing]
+sancı
+sanem
+sangı [P:Adj]
+sanı
+sanık
+sanki [P:Adv]
+sanrı
+sap
+sapa [P:Adj]
+sapak
+sapak [P:Adj]
+sapan
+sapık [P:Adj]
+sapır [P:Dup]
+sapkı
+sara
+saraç
+sarak
+sarat [A:NoVoicing]
+saray
+sarf
+sargı
+sarı [P:Adj]
+sarık
+sarım
+sari
+sâri [P:Adj]
+sarig
+sarih [P:Adj]
+sarma
+sarma [P:Adj]
+sarp [P:Adj]
+sarpa
+sası [P:Adj]
+saten
+saten [P:Adj]
+sathî [P:Adj]
+satı
+satı [P:Adj]
+satıh [A:LastVowelDrop]
+satım
+satır
+satış
+satir
+sauna
+sav
+sava
+savak
+savak [P:Adj]
+savan
+savaş
+savat [A:NoVoicing]
+savcı
+say
+saya
+sayaç
+saye
+sayfa
+saygı
+sayha
+sayı
+sayım
+sayın [P:Adj]
+sayrı [P:Adj]
+saz
+saz [P:Adj]
+sazak
+sazan
+seans
+sebat [A:NoVoicing]
+sebep
+sebil
+sebze
+secde
+seci
+seçal
+seçi
+seçik
+seçim
+seçki
+seda
+sedef
+sedef [P:Adj]
+sedir
+sedye
+sefa
+sefer [Index:1]
+sefer [P:Noun, Time]
+sefih [P:Adj]
+sefil [P:Adj]
+sefil [P:Adv]
+sefir
+segâh
+seher
+sehim [A:LastVowelDrop]
+sehiv [A:LastVowelDrop]
+sehpa
+sek [P:Adj]
+sek [P:Adv]
+sekel
+seki
+sekil
+seks
+seksi [P:Adj]
+sekte
+sel
+sela
+selam
+sele
+selef
+selek [P:Adj]
+selen
+selim [P:Adj]
+selis [P:Adj]
+selp [A:Voicing]
+selva
+selvi
+sem [A:Doubling]
+sema
+semah
+semaî
+seman
+semen
+semer
+semi
+semih [P:Adj]
+semiz [P:Adj]
+semt
+sen [P:Pron,Pers]
+sena
+sene [P:Noun, Time]
+senek
+senet
+senir
+senit
+sent
+sepek
+sepet [A:NoVoicing]
+sepet [P:Adj]
+sepi
+sepya [P:Adj]
+ser
+sera
+serak
+serap
+serçe
+sere
+seren
+serf
+sergi
+seri
+seri [P:Adj]
+serim
+serin [P:Adj]
+seriş
+sert [P:Adj]
+serum
+servi
+ses
+set
+seter
+setik
+setir [A:LastVowelDrop]
+setre
+sevap
+sevap [P:Adj]
+sevda
+sever [P:Adj]
+sevgi
+sevi
+sevim
+sevk
+seyek
+seyir [A:LastVowelDrop]
+seyis
+seyit
+seza [P:Adj]
+sezgi
+sezi
+seziş
+sezon [P:Noun, Time]
+sezü
+sıcak [P:Adj]
+sıçan
+sıdk
+sıfat [A:NoVoicing]
+sığ [P:Adj]
+sığa
+sığır
+sığla
+sıhhî [P:Adj]
+sıhrî
+sık [P:Adj]
+sıkı [P:Adj]
+sıkım
+sıkıt [A:NoVoicing]
+sıla
+sımak
+sınaî [P:Adj]
+sınav
+sındı
+sınıf
+sınık [P:Adj]
+sınır
+sıpa
+sır [A:Doubling]
+sır [Index:1]
+sıra
+sırat [A:NoVoicing]
+sırça
+sırça [P:Adj]
+sırf [P:Adv]
+sırık
+sırım
+sırlı [P:Adj]
+sırma
+sırma [P:Adj]
+sırt [A:NoVoicing]
+sıska [P:Adj]
+sıtma
+sıva
+sıvı
+sıvık [P:Adj]
+sıyga
+sıygı
+sızak
+sızı
+sızım
+sibak
+sicil
+sicim
+sidik
+sif
+sifin
+sifon
+sigar
+siğil
+sihir [A:LastVowelDrop]
+sik
+sika
+sikke
+silâh
+silaj
+silgi
+silik [P:Adj]
+silik [P:Adv]
+silis
+silki
+sille
+silme
+silme [P:Adv]
+silo
+sim
+sim [P:Adj]
+sima
+simge
+simit
+simya
+sin
+sin [A:Doubling ;Index:2]
+sine
+sinek
+sini
+sinik [P:Adj]
+sinir
+sinir [P:Adj]
+sinle
+sinsi [P:Adj]
+sinüs
+siper
+siper [P:Adj]
+sipsi
+siren
+sirk
+sirke
+sirmo
+siroz
+sirto
+sis
+sit
+site
+sitem
+sitil
+sivil [P:Adj]
+sivri [P:Adj]
+siya
+siyah [P:Adj]
+siyak
+siyek
+siyer
+siz [P:Pron, Pers]
+skala
+skeç [A:Voicing]
+ski
+skif
+skink
+skor
+slap
+slayt
+slip
+smaç
+snop [P:Adj]
+soba
+sobe
+soda
+sof
+sof [P:Adj]
+sofa
+sofî [P:Adj]
+sofra
+softa
+sofu [P:Adj]
+soğan
+soğuk [P:Adj]
+sokak
+soket [A:NoVoicing]
+sokra
+soku
+sokum
+sokur
+sokur [P:Adj]
+sol [P:Adj]
+solak
+solo
+soluk
+soluk [P:Adj]
+som
+som [P:Adj]
+soma
+somak [P:Noun]
+somon
+somun
+somut [A:NoVoicing]
+somut [P:Adj]
+somya
+son [P:Adj]
+son [P:Num]
+sonar
+sonat [A:NoVoicing]
+sonda
+sone
+sonlu [P:Adj]
+sonra [P:Adv]
+sonra [P:Noun, Time]
+sonra [P:Postp,PCAbl]
+sonuç
+sop
+sopa
+sorgu
+sorit
+sorti
+soru
+sorum
+sorun
+sos
+sosis
+sote
+soy
+soya
+soyka
+soylu [P:Adj]
+soyut [A:NoVoicing]
+soyut [P:Adj]
+söbe [P:Adj]
+söbü
+söğüş
+söğüt
+sökel [P:Adj]
+sökük [P:Adj]
+söküm
+sökün
+sölom
+sönük [P:Adj]
+sönüm
+sör
+sörf
+söve
+söven
+sövgü
+söz
+sözde [P:Adj]
+sözde [P:Adv]
+sözel [P:Adj]
+sözlü [P:Adj]
+spazm
+sperm
+spor
+spor [P:Adj]
+spot
+sprey
+staj
+stant [A:Voicing]
+star
+start
+stat [A:Voicing]
+statü
+sten
+steno
+stent
+step
+ster
+stil
+stilo
+stok [A:Voicing]
+stop
+stor
+streç
+streç [P:Adj]
+stres
+sual [A:InverseHarmony]
+suare
+subay
+subra
+subuk
+subye
+sucuk
+sucul [P:Adj]
+suç
+suçlu [P:Adj]
+sudak
+sudan [P:Adj]
+sufi
+sufle
+sukut
+sulak
+sulak [P:Adj]
+sulh
+sulp [A:Voicing, InverseHarmony]
+sulp [P:Adj]
+sulta
+sulu [P:Adj]
+suluk
+sumak [P:Noun]
+sumen
+sumo
+suna
+sunak
+sungu
+sunî [P:Adj; Ref:suni_Adj]
+sunta
+sunta [P:Adj]
+sunu
+sunum
+sunuş
+suoku [A:CompoundP3sg; Roots:su-ok]
+sup
+supap
+sur
+sura
+sura [P:Adj]
+surat [A:NoVoicing]
+sure
+suret [A:NoVoicing]
+susak
+susak [P:Adj]
+susam
+susku
+susta
+susuz [P:Adj]
+susuz [P:Adv]
+suşi
+sut [A:Voicing]
+suvat [A:NoVoicing]
+suyuk
+sübek
+sübut [A:NoVoicing]
+sübye
+sücut
+süet [A:NoVoicing]
+süflî [P:Adj]
+süit [A:NoVoicing]
+süje
+sükse
+sükûn
+sükût [A:NoVoicing]
+sülf
+sülûk [A:NoVoicing]
+sülük
+sülün
+sülüs
+sülüs [P:Adj]
+sümek [P:Noun]
+sümen
+sümük
+süne
+süngü
+süper [P:Adj]
+sürat [A:NoVoicing, InverseHarmony]
+sürç
+süre
+süreç
+sürek
+sürek [P:Adj]
+sürfe
+sürgü
+sürme
+sürme [P:Adj]
+sürre
+sürur
+sürü
+sürüm
+süs
+süsen
+süslü [P:Adj]
+süt
+sütlü
+sütre
+sütun
+süven
+süyek
+süyüm
+süzek
+süzgü
+süzük [P:Adj]
+şaban
+şad [P:Adj]
+şafak
+şaft
+şaful
+şah [P:Adj]
+şahap
+şahım [A:LastVowelDrop]
+şâhıs
+şahıs [A:LastVowelDrop]
+şahin
+şahit
+şahne
+şahsî [P:Adj; Ref:şahsi_Adj]
+şaibe
+şair [P:Adj]
+şaire
+şak [A:Doubling]
+şaka
+şakak
+şakır [P:Dup]
+şaki
+şakul [A:InverseHarmony]
+şal
+şalak
+şale
+şali
+şali [P:Adj]
+şalt
+şama
+şaman
+şamar
+şamil [P:Adj]
+şan
+şano
+şans
+şap
+şapel
+şapır [P:Dup]
+şapka
+şarap
+şarıl [P:Dup]
+şarj
+şark
+şarkı
+şarkî [P:Adj]
+şarpi
+şart [A:NoVoicing]
+şaryo
+şase
+şasi
+şaşaa
+şaşı [P:Adj]
+şat
+şataf
+şatır
+şatır [P:Adj]
+şato
+şavk [P:Adj]
+şavul
+şayak
+şayan [P:Adj]
+şayet [P:Conj]
+şayi [P:Adj]
+şayia
+şayka
+şaz [P:Adj]
+şeb
+şebek
+şeci [P:Adj]
+şedde
+şedit [P:Adj]
+şef
+şefik [A:NoVoicing]
+şefik [P:Adj]
+şehir [A:LastVowelDrop]
+şehit
+şehlâ
+şek [A:Doubling]
+şekel
+şeker
+şekil [A:LastVowelDrop]
+şeklî [P:Adj]
+şekva
+şelek
+şelf
+şem
+şema
+şems
+şemse
+şemsî [P:Adj]
+şen [P:Adj]
+şeni [P:Adj]
+şepit
+şer [A:Doubling]
+şer [P:Adj]
+şeran [P:Adv]
+şerç [A:Voicing]
+şeref
+şerh
+şerha
+şerî [P:Adj]
+şerif
+şerif [P:Adj]
+şerik
+şerir
+şerit
+şeş
+şet [P:Noun; A:Voicing, Doubling]
+şetim [A:LastVowelDrop]
+şev
+şev [P:Adj]
+şevk
+şey
+şeyh
+şık [A:Doubling ; Index:1]
+şık [P:Adj]
+şıkır [P:Dup]
+şınav
+şıp
+şıpır [P:Dup]
+şıpka
+şıra
+şırak
+şırıl [P:Dup]
+şiar
+şif
+şifa
+şifon
+şifon [P:Adj]
+şifre
+şiir
+şikâr
+şike
+şile
+şilem
+şilep
+şilin
+şilt [A:Voicing]
+şilte
+şimal [A:InverseHarmony]
+şimdi [P:Adv]
+şimdi [P:Noun, Time]
+şinik
+şip
+şirin [P:Adj]
+şirk
+şist
+şiş
+şiş [P:Adj]
+şişe
+şişek
+şişik [P:Adj]
+şişko [P:Adj]
+şita
+şive
+şoför
+şok
+şok [P:Adj]
+şoke [P:Adj]
+şolo
+şom [P:Adj]
+şopar [P:Adj]
+şort
+şose
+şoset [A:NoVoicing]
+şoson
+şov
+şoven
+şölen
+şömiz
+şöyle [P:Adv]
+şua
+şuara
+şubat [A:NoVoicing]
+şube
+şufa
+şuh [P:Adj]
+şukur [P:Dup]
+şule
+şupur [P:Dup]
+şura
+şûra
+şurup
+şut
+şuur
+şükür [A:LastVowelDrop]
+şümul [A:InverseHarmony]
+şüphe
+şüyu
+taam
+tab
+taba [P:Adj]
+tabak
+taban
+taban [P:Adv]
+tabı
+tâbi
+tâbi [P:Adj]
+tabi [P:Adj]
+tabiî [P:Adj]
+tabiî [P:Adv]
+tabip
+tabir
+tabl
+tabla
+tablo
+tabu [P:Adj]
+tabur
+tabut [A:NoVoicing]
+tabya
+tacil
+tacir
+taciz
+taç [A:Voicing]
+tadat
+tadım
+tadil
+tafra
+tafta
+tafta [P:Adj]
+tahıl
+tahin
+tahra
+taht
+tahta
+tahta [P:Adj]
+taife
+tak
+taka
+takas
+takat [A:InverseHarmony]
+takı
+takık [P:Adj]
+takım
+takır [P:Dup]
+takim
+takip
+takke
+takla
+takoz
+taksa
+taksi
+takt
+takti
+takva
+tal
+talâk [A:NoVoicing]
+talan
+talaş
+talaz
+talep
+tali [P:Adj]
+talih
+talik [A:InverseHarmony]
+talik [P:Adj]
+talil
+talim
+talip [P:Adj]
+talk
+tam [P:Adj]
+tam [P:Adv]
+tamah
+tamam [P:Adj]
+tamik
+tamim
+tamir
+tamu
+tan
+tane
+tanen
+tango
+tanı
+tanık [P:Adj]
+tanım
+tanış [P:Adj]
+tanıt [A:NoVoicing]
+tanin
+tank [A:NoVoicing]
+tanrı
+tapa
+tapan
+tapı
+tapır [P:Dup]
+tapi
+tapir
+tapon [P:Adj]
+tapu
+tar
+taraf
+tarak
+taraş
+taraz
+taret [A:NoVoicing]
+tarh
+tarım
+tarif
+tarih
+tarik
+tariz
+tarla
+tart
+tartı
+tarz
+tas
+tasa
+tasar
+tasdi
+tasım
+tasma
+tasni
+taş
+taş [P:Adj]
+taşak
+taşıl
+taşım [P:Adj]
+taşıt [A:NoVoicing]
+taşra
+tat [A:Voicing]
+tatar
+tatil
+tatlı
+tatlı [P:Adj]
+taun
+tav
+tava
+tava [P:Adj]
+tavaf
+tavan
+tavır [A:LastVowelDrop]
+tavik [A:InverseHarmony]
+taviz
+tavla
+tavuk
+tavus
+tay
+tay [P:Dup]
+taya
+tayf
+tayfa
+tayga
+tayın
+tayin
+tayip
+tayt
+taze [P:Adj]
+tazı
+tazim
+tazip
+taziz
+teali
+teati
+tebaa
+teber
+tecil
+tecim
+tedai
+tedip
+tef
+tefe
+tefek
+teğet [A:NoVoicing]
+tehi [P:Adj]
+tehir
+tein
+teist [P:Adj;A:NoVoicing]
+teizm
+tek
+tek [P:Adv]
+tek [P:Adj]
+teke
+tekel
+teker
+teker [P:Adj]
+tekil [P:Adj]
+tekin [P:Adj]
+tekir
+tekir [P:Adj]
+tekit
+tekke
+tekme
+tekne
+tekst
+tel
+tel [P:Adj]
+telâ
+telâş
+telef
+telek
+telem
+teles [P:Adj]
+telif
+telif [P:Adj]
+telin
+telis
+telve
+tem
+tema
+temas
+temek [P:Noun]
+temel
+temel [P:Adj]
+temin
+temiz [P:Adj]
+tempo
+ten
+tenge
+tenha [P:Adj]
+tenis
+tenor
+tente
+tenya
+teori
+tepe
+tepi
+tepik
+tepir
+tepke
+tepki
+tepsi
+ter
+teras
+terbi
+tere
+terek
+teres
+terfi
+terim
+terk
+terki
+terme
+terör
+ters
+ters [P:Adj]
+terzi
+tesir
+tesis
+tesit
+tesri
+test
+testi
+teşci
+teşne [P:Adj]
+teşri
+teşt
+teşyi
+tetik
+tetik [P:Adj]
+tetir
+tevdi
+tevek
+tevil
+tevki
+tevsi
+tevzi
+teyel
+teyit
+teyp [A:Voicing]
+teyze
+tez
+tez [P:Adj]
+tez [P:Adv]
+tezat
+tezek
+tıbbî
+tıfıl [P:Adj]
+tığ
+tıkaç
+tıkım
+tıkış [P:Dup]
+tıkız [P:Adj]
+tımar
+tın
+tınaz
+tını
+tıp [A:Voicing, Doubling]
+tıpa
+tıpır [P:Dup]
+tıpış [P:Dup]
+tıpkı
+tıpkı [P:Adv]
+tır
+tırak
+tıraş
+tırık
+tırıl [P:Adj]
+tırıs
+tıs
+tifo
+tifüs
+tik
+tike
+tikel [P:Adj]
+tilki
+tilki [P:Adj]
+tim
+timüs
+tin
+tiner
+tip
+tip [P:Adj]
+tipi
+tipik [P:Adj]
+tipo
+tir [P:Dup]
+tiraj
+tiran
+tiran [P:Adj]
+tirat
+tire
+tire [P:Adj]
+tiril [P:Dup]
+tirit
+tirit [P:Adj]
+tiriz
+tirle
+tirsi
+tirşe [P:Adj]
+titan
+titiz [P:Adj]
+titr
+tiz [P:Adj]
+tofu
+toht
+tohum
+tok [P:Adj]
+toka
+tokaç
+tokat
+tokuş [P:Dup]
+tokuz [P:Adj]
+tokyo
+tol
+tolga
+tomak [P:Noun]
+tomar
+ton
+tonaj
+toner
+tonga
+tonik
+tonla [P:Adj]
+tonoz
+top
+top [P:Adv]
+topaç
+topak
+topal [P:Adj]
+topar [P:Dup]
+topaz
+topik
+toplu [P:Adj]
+topu [P:Pron]
+topuk
+topur
+toput
+topuz
+tor
+tor [P:Adj]
+torak
+torba
+torik
+tork
+torna
+tortu
+torum
+torun
+tos
+tost
+tosun
+total [A:InverseHarmony]
+total [P:Adj]
+totem
+toto
+toy [P:Adj]
+toyga
+toz
+toz [P:Adj]
+tozan
+tör
+töre
+törel [P:Adj]
+tören
+törpü
+tös [P:Interj]
+tövbe
+töz
+tözel [P:Adj]
+trafo
+trake
+trans
+tranş
+trap
+tras
+trata
+tren
+trend
+trias
+triko
+triko [P:Adj]
+trio [P:Adj]
+trok
+trol [A:InverseHarmony]
+tromp [A:NoVoicing]
+tröst
+trup
+trük
+tuba
+tufan
+tugay
+tuğ
+tuğla
+tuğra
+tuh [P:Interj]
+tuhaf [P:Adj]
+tukur [P:Dup]
+tul [A:InverseHarmony]
+tulû
+tuluk
+tulum
+tulum [P:Adj]
+tulup
+tuman
+tumba
+tun
+tunç [A:Voicing]
+tunç [P:Adj]
+tunik
+tur
+tura
+turaç
+turba
+turbo [P:Adj]
+turfa [P:Adj]
+turna
+turne
+turno
+turp
+turşu
+turta
+tuş
+tutaç
+tutak
+tutam [P:Adj]
+tutar
+tutku
+tutu
+tutuk [P:Adj]
+tutum
+tutya
+tuval [A:InverseHarmony]
+tuyuğ
+tuz
+tuzak
+tuzla
+tüf
+tüfek
+tüh [P:Interj]
+tük
+tül
+tül [P:Adj]
+tüm [P:Adj]
+tüm [P:Det]
+tümce
+tümel [P:Adj]
+tümen
+tümör
+tümü [P:Pron,Quant]
+tümür
+tün
+tünek
+tünel
+tüp
+tür
+tür [P:Adj]
+türap
+türbe
+türe
+türel [P:Adj]
+türev
+türkü
+türlü [P:Adj]
+türüm
+türüz
+tütsü
+tütün
+tüvit
+tüvit [P:Adj]
+tüy
+tüyo
+tüze
+tüzel [P:Adj]
+tüzük
+tvist
+ucube [P:Adj]
+ucuz [P:Adj]
+uçak
+uçar [P:Adj]
+uçarı [P:Adj]
+uçkun [P:Adj]
+uçkur
+uçmak
+uçmak [P:Noun]
+uçman
+uçuk
+uçuk [P:Adj]
+udî
+ufak [P:Adj]
+ufkî
+ufuk [A:LastVowelDrop, NoVoicing]
+uğra
+uğrak [P:Adj]
+uğraş
+uğru
+uğrun [P:Adv]
+uğul [P:Dup]
+uğur
+uğur [A:LastVowelDrop; Index:1]
+uğut
+uhde
+ukalâ [P:Adj]
+ukde
+uknum
+ulaç
+ulak
+ulam
+ulan [P:Interj]
+ulema [A:ImplicitPlural]
+ulu [P:Adj]
+ulufe
+ulum
+ulûm
+ulus
+ulvî
+umacı
+umar
+umde
+ummak
+umman
+umre
+umu
+umum [P:Adj]
+umum [P:Pron]
+umumî [P:Adj]
+umur
+umut
+unsur
+unvan
+uran
+uray
+urba
+urgan
+uruk
+urup
+usanç
+usare
+uskur
+uslu [P:Adj]
+usta
+usta [P:Adj]
+usul [A:InverseHarmony]
+usul [P:Adv]
+uşak
+uşkun
+uşşak
+utanç
+utku
+utmak
+uyak
+uyarı
+uydu
+uydu [P:Adj]
+uygar [P:Adj]
+uygun [P:Adj]
+uyku
+uyluk
+uymak
+uyruk
+uysal [P:Adj]
+uyum
+uyur [P:Adj]
+uyuz
+uyuz [P:Adj]
+uzak [P:Adj]
+uzam
+uzay
+uzlet [A:NoVoicing]
+uzman [P:Adj]
+uzo
+uzun [P:Adj]
+uzuv [A:LastVowelDrop]
+uzvî
+ücra [P:Adj]
+ücret [A:NoVoicing]
+üçer [P:Adj]
+üçgen
+üçgen [P:Adj]
+üçgül
+üçler
+üçtaş
+üçüz [P:Adj]
+üdeba
+üfleç
+üful [A:InverseHarmony]
+üğrüm
+ülen
+üleş
+ülfet [A:NoVoicing]
+ülger
+ülke
+ülkü
+ülser
+ümera
+ümit
+ümmet [A:NoVoicing]
+ümmî
+ümran
+ümük
+ündeş
+ünik [P:Adj]
+ünite
+ünlem
+ürat [A:NoVoicing]
+üre
+ürem
+üremi
+ürkek [P:Adj]
+ürkü
+ürün
+üryan [P:Adj]
+üsera
+üsküf
+üslup
+üst
+üst [P:Adj]
+üstat
+üste
+üstel [P:Adj]
+üstün [P:Adj]
+üşenç
+üşmek
+ütmek
+ütü
+üvey [P:Adj]
+üvez
+üye [P:Adj]
+üzere [P:Postp,PCNom]
+üzeri [A:CompoundP3sg;Roots:üzer]
+üzgü
+üzgün [P:Adj]
+üzme
+üzmek
+üzre [P:Postp,PCNom]
+üzüm
+üzünç
+vaat [P:Noun; A:Voicing, InverseHarmony]
+vaaz
+vacip [P:Adj]
+vade
+vadi
+vagon
+vah [P:Interj]
+vaha
+vahi [P:Adj]
+vahim [P:Adj]
+vahit [A:Voicing, LastVowelDrop]
+vahit [P:Adj]
+vahiy [A:LastVowelDrop]
+vahşî [P:Adj]
+vaiz
+vaka
+vakar
+vakfe
+vakıa
+vakıf [A:LastVowelDrop]
+vâkıf [A:LastVowelDrop]
+vâkıf [P:Adj]
+vaki [P:Adj]
+vakit [A:LastVowelDrop, NoVoicing]
+vaks
+vakum [P:Adj]
+vakur [P:Adj]
+vale
+valf [A:InverseHarmony]
+vali
+valiz
+valör
+vals [A:InverseHarmony]
+vamp
+vana
+vapur
+var [P:Adj]
+varak
+varan
+varda [P:Interj]
+vargı
+varil
+varis
+vâris
+varit [A:Voicing, LastVowelDrop]
+varit [P:Adj]
+varoş
+varta
+vasat [A:NoVoicing]
+vasat [P:Adj; A:NoVoicing]
+vasıf [A:LastVowelDrop]
+vasıl [P:Adj]
+vasi
+vâsi [P:Adj]
+vaşak
+vat
+vatan
+vatka
+vatoz
+vay [P:Interj]
+vaz
+vazı
+vazıh [P:Adj]
+vazo
+veba
+vebal [A:InverseHarmony]
+veca
+vecih [A:LastVowelDrop]
+vecit [A:Voicing, LastVowelDrop]
+veciz [P:Adj]
+veçhe
+veda
+vedia
+vefa
+vefat [A:NoVoicing]
+vehim [A:LastVowelDrop]
+vekil
+velet
+velev [P:Conj]
+veli
+velur
+velûr
+velût
+velut [P:Adj]
+vena
+verdi
+vere
+verem
+verem [P:Adj]
+verev [P:Adj]
+vergi
+veri
+verim
+verit
+veto
+veya [P:Conj]
+vezin [A:LastVowelDrop]
+vezir
+vezne
+vıcık [P:Adj]
+vık [P:Dup]
+vın
+vır [P:Dup]
+vırt [P:Dup]
+vız
+vızıl [P:Dup]
+vızır [P:Dup]
+vida
+video
+vido
+viglâ
+villâ
+vinç [A:Voicing]
+vira [P:Adv]
+vira [P:Interj]
+viraj
+viral [P:Adj]
+viran [P:Adj]
+vire
+virt [A:Voicing]
+virüs
+visal [A:InverseHarmony]
+viski
+vişne
+vites
+vitir [A:LastVowelDrop]
+viya
+viyak
+viyol
+vize
+vizon
+vizon [P:Adj]
+vizör
+vokal [A:InverseHarmony]
+vokal [P:Adj]
+volân
+vole
+voli
+volt
+volta
+vonoz
+votka
+voyvo [P:Interj]
+vuku
+vukuf
+vulva
+vuraç
+vurgu
+vuru
+vuruk [P:Adj]
+vusul [A:InverseHarmony]
+vuzuh
+vücut
+vürut
+vüsat [A:InverseHarmony]
+yaba
+yaban [P:Adj]
+yabgu
+yâd
+yafa
+yafta
+yağ
+yağı
+yağır
+yağız [P:Adj]
+yağma
+yağma [P:Adj]
+yahey [P:Interj]
+yahni
+yahşi [P:Adj]
+yahu [P:Interj]
+yahut [P:Conj]
+yaka
+yakı
+yakım
+yakın [P:Adj]
+yakıt [A:NoVoicing]
+yakin
+yakut [A:NoVoicing]
+yakut [P:Adj]
+yal
+yalak
+yalan
+yalan [P:Adj]
+yalap [P:Dup]
+yalaz
+yalı
+yalım
+yalın [P:Adj]
+yalız [P:Adj]
+yalpa
+yalpı
+yama
+yamaç
+yamak [P:Noun]
+yaman [P:Adj]
+yamru
+yamuk
+yamuk [P:Adj]
+yan
+yana [P:Postp,PCAbl]
+yanak
+yanal [P:Adj]
+yanay
+yanaz [P:Adj]
+yangı
+yanık
+yanık [P:Adj]
+yanıt [A:NoVoicing]
+yani [P:Adv]
+yani [P:Conj]
+yankı
+yanlı [P:Adj]
+yansı
+yapak
+yapay [P:Adj]
+yapı
+yapık
+yapım
+yapıt [A:NoVoicing]
+yar
+yâr [A:InverseHarmony]
+yara
+yarak
+yâran
+yarar
+yarda
+yâren
+yargı
+yarı [P:Adj]
+yarık
+yarık [P:Adj]
+yarım [P:Adj]
+yarın [P:Adv]
+yarın [P:Noun, Time]
+yarış
+yarka
+yarma
+yarma [P:Adj]
+yas
+yasa
+yasak
+yasak [P:Adj]
+yasal [P:Adj]
+yassı [P:Adj]
+yaş
+yaş [P:Adj]
+yaşam
+yaşıt [A:NoVoicing]
+yat
+yatak
+yatay [P:Adj]
+yatı
+yatık [P:Adj]
+yatım
+yatır
+yatsı
+yatuk
+yavan [P:Adj]
+yavaş [P:Adj]
+yave
+yaver
+yavru
+yavsı
+yavuz [P:Adj]
+yay
+yaya
+yaya [P:Adv]
+yayan [P:Adj]
+yayan [P:Adv]
+yaygı
+yayık
+yayık [P:Adj]
+yayım
+yayın
+yayla
+yaz [P:Noun, Time]
+yazar [P:Adj]
+yazgı
+yazı
+yazık
+yazım
+yazın
+yazın [P:Adv]
+yazıt [A:NoVoicing]
+yazma
+yazma [P:Adj]
+yedek
+yedek [P:Adj]
+yediz [P:Adj]
+yegâh
+yegân
+yeğ [P:Adj]
+yeğen
+yeğin [P:Adj]
+yeğni [P:Adj]
+yeis
+yek [P:Adj]
+yeke
+yekta [P:Adj]
+yekûn
+yel
+yele
+yeleç [P:Adj]
+yelek
+yelin
+yelve
+yem
+yemek
+yemek [P:Noun]
+yemin
+yemiş
+yen
+yengi
+yeni [P:Adj]
+yenik [P:Adj]
+yer
+yerel [P:Adj]
+yerey
+yergi
+yerli [P:Adj]
+yeşil [P:Adj]
+yeşim
+yeter [P:Adj]
+yeti
+yetik [P:Adj]
+yetim [P:Adj]
+yetke
+yetki
+yevmî
+yeygi
+yezit [P:Adj]
+yığın
+yıkı
+yıkık [P:Adj]
+yıkım
+yıl [P:Noun, Time]
+yılan
+yılgı
+yılık [P:Adj]
+yılkı
+yır
+yırık [P:Adj]
+yısa [P:Interj]
+yiğit [P:Adj]
+yine [P:Adv]
+yirik
+yirik [P:Adj]
+yitik [P:Adj]
+yitim
+yiv
+yiyim
+yobaz [P:Adj]
+yoga
+yogi
+yoğ
+yoğun [P:Adj]
+yok [P:Adj; A:NoVoicing ; Index:1]
+yok [P:Adj; A:Voicing]
+yok [P:Conj]
+yok [P:Adv]
+yoksa [P:Conj]
+yokum
+yokuş [P:Adj]
+yol
+yolak
+yolcu
+yoluk [P:Adj]
+yom
+yoma
+yonca
+yonga
+yont
+yontu
+yorga
+yortu
+yorum
+yosma [P:Adj]
+yosun
+yoz [P:Adj]
+yön
+yöre
+yudum [P:Adj]
+yuf [P:Interj]
+yufka
+yuh [P:Interj]
+yuha [P:Interj]
+yukaç
+yulaf
+yular
+yuma
+yumak
+yumak [P:Adj]
+yumak [P:Noun]
+yumru
+yumru [P:Adj]
+yumuk [P:Adj]
+yuna
+yunak
+yunus
+yurdu
+yurt [A:Voicing]
+yutak
+yutum
+yuva
+yuvak
+yuvar
+yuvgu
+yüce [P:Adj]
+yük
+yüküm
+yülgü
+yülük [P:Adj]
+yün
+yün [P:Adj]
+yürek
+yürük [P:Adj]
+yüsrü
+yüsrü [P:Adj]
+yüz
+yüzde
+yüzey
+yüzük
+zaaf
+zabıt [A:LastVowelDrop]
+zabit [A:NoVoicing]
+zabit [P:Adj]
+zaç
+zade
+zade [P:Adj]
+zafer
+zağ
+zağar
+zahir
+zahir [P:Adj]
+zahir [P:Adv]
+zahit [P:Adj]
+zail [P:Adj]
+zait [P:Adj]
+zalim [P:Adj]
+zam [A:Doubling]
+zaman [P:Noun, Time]
+zamir
+zamk
+zamme
+zan [A:Doubling]
+zanka
+zanlı [P:Adj]
+zapt
+zar
+zarar
+zarf
+zarif [P:Adj]
+zart [P:Dup]
+zarta
+zat
+zaten [P:Adv]
+zatî [P:Adj]
+zati [P:Adv]
+zayıf [P:Adj]
+zayi
+zayi [P:Adj]
+zeban
+zebra
+zebun [P:Adj]
+zecir [A:LastVowelDrop]
+zecrî [P:Adj]
+zede
+zefir
+zehap
+zehir [A:LastVowelDrop]
+zekâ
+zekât [A:NoVoicing]
+zeker
+zeki [P:Adj]
+zelil [P:Adj]
+zelve
+zem [A:Doubling]
+zemin
+zen
+zenci
+zenne
+zer
+zerde
+zerk
+zerre
+zeval [A:InverseHarmony]
+zevat [A:NoVoicing, ImplicitPlural]
+zevce
+zevç [A:Voicing]
+zevk
+zeyil [A:LastVowelDrop]
+zıbın
+zıh
+zımba
+zımnî
+zınk
+zıp
+zıpır [P:Adj]
+zıpka
+zırh
+zırt [P:Dup]
+zırva
+zıt [A:Voicing, Doubling]
+zıt [P:Adj; A:Voicing, Doubling]
+zıvır
+zifaf
+zifin
+zifir
+zifos
+zift
+zigon
+zigot [A:NoVoicing]
+zihaf
+zihin [A:LastVowelDrop]
+zihnî [P:Adj]
+zikir [A:LastVowelDrop]
+zil
+zimmî
+zina
+zinde [P:Adj]
+zir
+zira [P:Conj]
+ziraî
+zirve
+ziya
+ziyan
+zloti
+zoka
+zom [P:Adj]
+zombi
+zona
+zonk [P:Dup]
+zor [P:Adj]
+zorba [P:Adj]
+zorgu
+zorla [P:Adv]
+zuhur
+zula
+zulüm [A:LastVowelDrop]
+zum
+zurna
+zurt [P:Dup]
+zübde
+züht [A:Voicing]
+zühul [A:InverseHarmony]
+zükâm
+zül [A:Doubling]
+zülâl [A:InverseHarmony]
+zülüf [A:LastVowelDrop]
+zümre
+züppe [P:Adj]
+zürra
+züyuf
+imek [A:NonReciprocal]
+irmek
+amma [P:Adv]
+bazan [P:Adv]
+beri [P:Adv]
+boyca [P:Adv]
+çokça [P:Adv]
+demek [P:Adv]
+elele [P:Adv]
+falan [P:Adv]
+filan [P:Adv]
+hayır [P:Adv]
+hele [P:Adv]
+hem [P:Adv]
+iken [P:Adv]
+keşke [P:Adv]
+koyu [P:Adv]
+meğer [P:Adv]
+oysa [P:Adv]
+yazık [P:Adv]
+aaa [P:Interj]
+aaah [P:Interj]
+aah [P:Interj]
+eyvah [P:Interj]
+hoşt [P:Interj]
+ööf [P:Interj]
+tabi [P:Interj]
+tüü [P:Interj]
+yaşa [P:Interj]
+yoo [P:Interj]
+apar [P:Dup]
+cubur [P:Dup]
+derli [P:Dup]
+dobra [P:Dup]
+efil [P:Dup]
+eften [P:Dup]
+estek [P:Dup]
+fart [P:Dup]
+farta [P:Dup]
+furta [P:Dup]
+hapur [P:Dup]
+hutur [P:Dup]
+ışıl [P:Dup]
+ifil [P:Dup]
+kıtır [P:Dup]
+pır [P:Dup]
+sabuk [P:Dup]
+seçik [P:Dup]
+sızım [P:Dup]
+subuk [P:Dup]
+tefek [P:Dup]
+yamru [P:Dup]
+zari [P:Dup]
+zıvır [P:Dup]
+altı [P:Num, Card]
+beş [P:Num, Card]
+bin [P:Num, Card]
+bir [P:Num, Card]
+buçuk [P:Num, Card]
+dokuz [P:Num, Card]
+dört [P:Num, Card; A:Voicing]
+elli [P:Num, Card]
+iki [P:Num, Card]
+kırk [P:Num, Card]
+otuz [P:Num, Card]
+sekiz [P:Num, Card]
+sıfır [P:Num, Card]
+yedi [P:Num, Card]
+yirmi [P:Num, Card]
+yüz [P:Num, Card]
+beşer [P:Num,Dist]
+biner [P:Num,Dist]
+birer [P:Num,Dist]
+onar [P:Num,Dist]
+üçer [P:Num,Dist]
+yüzer [P:Num,Dist]
+araba [P:Adj]
+çuval [P:Adj]
+fıçı [P:Adj]
+fırın [P:Adj]
+içim [P:Adj]
+kadeh [P:Adj]
+kalıp [P:Adj]
+kova [P:Adj]
+kucak [P:Adj]
+kupa [P:Adj]
+kutu [P:Adj]
+küfe [P:Adj]
+ölçek [P:Adj]
+şinik [P:Adj]
+şişe [P:Adj]
+tabak [P:Adj]
+tepsi [P:Adj]
+tas [P:Adj]
+testi [P:Adj]
+top [P:Adj]
+düdük [P:Adj]
+hıyar [P:Adj]
+hindi [P:Adj]
+inek [P:Adj]
+kalas [P:Adj]
+katır [P:Adj]
+kaz [P:Adj]
+kebap [P:Adj]
+keçi [P:Adj]
+kelek [P:Adj]
+kömür [P:Adj]
+odun [P:Adj]
+peyk [P:Adj]
+şebek [P:Adj]
+şeker [P:Adj]
+turşu [P:Adj]
+yılan [P:Adj]
+yufka [P:Adj]
+zifos [P:Adj]
+zil [P:Adj]
+bebek
+yarı
+yenge
+âciz
+âlim
+angut
+aracı
+arap
+bey
+çocuk
+dâhi
+dul
+fail
+fakir
+fâni
+fatih
+gâvur
+godoş
+hafız
+hanım
+hayta
+ikiz
+kahpe
+kasap
+katil
+keş
+kral
+lider
+manav
+memur
+moruk
+mucit
+mümin
+ölü
+paşa
+puşt
+sabi
+şah
+şair
+şopar
+sözlü
+tanık
+uzman
+üye
+yazar
+yiğit
+yürük
+hava [P:Adj]
+diril [P:Adj]
+dövme [P:Adj]
+kıran [P:Adj]
+kupon [P:Adj]
+litre [P:Adj]
+maraz [P:Adj]
+moloz [P:Adj]
+soy [P:Adj]
+sütlü [P:Adj]
+tümen [P:Adj]
+yalak [P:Adj]
+yarar [P:Adj]
+abide
+âyan
+ayıp
+azman
+badik
+batı
+bâtın
+beri [A:ImplicitDative]
+bozuk
+büyük
+büzük
+çalma
+doğu
+düzme
+eksik
+ezik
+fena
+ferah
+füme
+gaip
+gıcır
+göğem
+gökçe
+gömme
+güney
+güvez
+güzel
+hâkî
+harbî
+has
+hurda
+içeri [A:ImplicitDative]
+ılgın
+ilk
+ilkel
+ırak
+ışkın
+iyi
+kalın
+katı
+kibar
+kırık
+kısa
+kısık
+kızıl
+kokoş
+kolay
+komik
+küçük
+külçe
+kuru
+küşat
+küt
+kuzey
+laçka
+likit
+lök
+malum
+maron
+maşuk
+masum
+mat
+matah
+mavi
+mecaz
+mecmu
+melun
+meret
+metîn
+minör
+mirî
+mor
+mümas
+müşir
+muzır
+naif
+nakıs
+naşir
+neftî
+net
+olur
+öncül
+ongun
+pasif
+pembe
+peşin
+püsür
+rahat
+revaç
+rutin
+saçma
+saf
+sağ
+sak
+sakıt
+salaş
+sarı
+şavk
+sepya
+sıcak
+şık
+sıkı
+sivil
+sivri
+siyah
+soğuk
+sol
+son
+taba
+tabi
+tabu
+talip
+tam
+taşım
+taze
+tekil
+tekin
+tıfıl
+tirşe
+toy
+tüm
+türlü
+tutam
+uçkun
+uğrak
+umumî
+üstün
+uzak
+var
+yaban
+yakın
+yalın
+yanlı
+yarım
+yatık
+yenik
+yeşil
+yezit
+yitik
+yok
+yokuş
+yudum
+zait
+zayıf
+zor
+adcı [P:Adj]
+alıcı
+benci [P:Adj]
+çöpçü
+dağcı
+dinci
+kinci [P:Adj]
+kolcu
+kovcu [P:Adj]
+öncü [P:Adj]
+sağcı [P:Adj]
+sesçi
+solcu [P:Adj]
+sözcü
+yağcı
+akmaz
+olmaz
+olmaz [P:Adj]
+onmaz
+ölmez [P:Adj]
+uymaz [P:Adj]
+akça [P:Adj]
+bence [P:Adv]
+bizce [P:Adv]
+bolca [P:Adj]
+bolca [P:Adv]
+bozca
+bozca [P:Adj]
+bönce [P:Adj]
+bönce [P:Adv]
+dince [P:Adv]
+efece [P:Adj]
+efece [P:Adv]
+evce [P:Adv]
+malca [P:Adv]
+sıkça [P:Adv]
+açlık
+otluk
+ahir [P:Adv]
+apak [P:Adv]
+asabi [P:Adv]
+asıl [P:Adv]
+ezik [P:Adv]
+fena [P:Adv]
+gizli [P:Adv]
+güç [P:Adv]
+güzel [P:Adv]
+hafif [P:Adv]
+hazır [P:Adv]
+hızlı [P:Adv]
+hoş [P:Adv]
+içten [P:Adv]
+ilk [P:Adv]
+ıssız [P:Adv]
+ivedi [P:Adv]
+iyi [P:Adv]
+kaçak [P:Adv]
+katı [P:Adv]
+kesin [P:Adv]
+kısa [P:Adv]
+kolay [P:Adv]
+kötü [P:Adv]
+malum [P:Adv]
+melul [P:Adv]
+nadir [P:Adv]
+nice [P:Adv]
+rahat [P:Adv]
+sade [P:Adv]
+salt [P:Adv]
+şaşı [P:Adv]
+seri [P:Adv]
+sert [P:Adv]
+sık [P:Adv]
+sıkı [P:Adv]
+soğuk [P:Adv]
+tatlı [P:Adv]
+temiz [P:Adv]
+uslu [P:Adv]
+uysal [P:Adv]
+uzun [P:Adv]
+yakın [P:Adv]
+yan [P:Adv]
+yarı [P:Adv]
+yavaş [P:Adv]
+yeni [P:Adv]
+zor [P:Adv]
+ahbap [P:Interj]
+amca [P:Interj]
+ana [P:Interj]
+aptal [P:Interj]
+âşık [P:Interj]
+ayı [P:Interj]
+bacı [P:Interj]
+bayan [P:Interj]
+bebek [P:Interj]
+çabuk [P:Interj]
+dayı [P:Interj]
+dede [P:Interj]
+devam [P:Interj]
+dürzü [P:Interj]
+evet [P:Interj]
+fonda [P:Interj]
+garip [P:Interj]
+geri [P:Interj]
+hain [P:Interj]
+hayıf [P:Interj]
+hayır [P:Interj]
+hücum [P:Interj]
+ibne [P:Interj]
+ileri [P:Interj]
+imdat [P:Interj]
+insaf [P:Interj]
+kâfi [P:Interj]
+kâfir [P:Interj]
+keşke [P:Interj]
+keşki [P:Interj]
+kız [P:Interj]
+laf [P:Interj]
+lala [P:Interj]
+lanet [P:Interj]
+marş [P:Interj]
+mayna [P:Interj]
+medet [P:Interj]
+müjde [P:Interj]
+neyse [P:Interj]
+nine [P:Interj]
+ninni [P:Interj]
+oğul [P:Interj]
+ölüm [P:Interj]
+orsa [P:Interj]
+öyle [P:Interj]
+pas [P:Interj]
+puf [P:Interj]
+puşt [P:Interj]
+rahat [P:Interj]
+tamam [P:Interj]
+teyze [P:Interj]
+tuhaf [P:Interj]
+üstat [P:Interj]
+velet [P:Interj]
+viya [P:Interj]
+yazık [P:Interj]
+yeğen [P:Interj]
+yenge [P:Interj]
+cülus
+hakim [P:Adj]
+halet [A:NoVoicing]
+harbi
+harbi [P:Adj]
+haşa [P:Interj]
+hulul
+hulus
+kanun
+luti
+lutr
+lutr [P:Adj]
+suni [P:Adj]
+şahsi [P:Adj]
+asıl [A:LastVowelDrop]
+ayırt
+tıkır
+lap [P:Dup]
+lıkır [P:Dup]
+lime [P:Dup]
+bilir [P:Adj]
+gelen [P:Adj]
+sesli [P:Adv]
+günde [P:Adv]
