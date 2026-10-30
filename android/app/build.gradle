@@ -1,0 +1,42 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.gokhanagingil.kek'
+    compileSdk 36
+    defaultConfig {
+        applicationId 'com.gokhanagingil.kek'
+        minSdk 26
+        targetSdk 36
+        versionCode 11001
+        versionName '1.1.0'
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
+    }
+    buildTypes {
+        release { minifyEnabled false; debuggable false }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    buildFeatures { buildConfig true }
+    sourceSets.main.assets.srcDir layout.buildDirectory.dir('generated/gameAssets')
+    lint { abortOnError true; checkReleaseBuilds true }
+}
+
+def gameAssets = tasks.register('syncGameAssets', Sync) {
+    from('../../dist') { into 'www' }
+    from('../host') { into 'www' }
+    into layout.buildDirectory.dir('generated/gameAssets')
+    doLast {
+        def index = layout.buildDirectory.file('generated/gameAssets/www/index.html').get().asFile
+        index.text = index.getText('UTF-8').replace('<script type="module"', '<script src="./android-host.js"></script><script type="module"')
+    }
+}
+tasks.named('preBuild').configure { dependsOn gameAssets }
+
+dependencies {
+    implementation 'androidx.webkit:webkit:1.14.0'
+    androidTestImplementation 'androidx.test:core:1.6.1'
+    androidTestImplementation 'androidx.test:runner:1.6.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.1'
+}

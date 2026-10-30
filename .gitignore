@@ -3,3 +3,12 @@ node_modules/
 .DS_Store
 .env*
 qa/
+android/.gradle/
+android/**/build/
+android/local.properties
+*.apk
+*.aab
+*.jks
+*.keystore
+*.p12
+signing/
