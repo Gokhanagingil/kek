@@ -22,8 +22,8 @@ public final class OfflineGameTest {
     @Before public void openCleanGame() throws Exception {
         scenario=ActivityScenario.launch(MainActivity.class);
         await("!!document.querySelector('[data-action=start]')");
-        js("localStorage.clear(); location.reload();");
-        await("!!document.querySelector('[data-action=start]') && !document.querySelector('[data-action=continue]')");
+        js("localStorage.clear(); document.documentElement.dataset.qaOld='true'; location.reload();");
+        await("!document.documentElement.dataset.qaOld && !!document.querySelector('[data-action=start]') && !document.querySelector('[data-action=continue]')");
     }
     @After public void close() { if(scenario!=null) scenario.close(); }
 
